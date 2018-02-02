@@ -133,4 +133,4 @@ d) Mediatory Services[MS] - Social media groups are managed by Peers whose effor
 e) Financial Services[FK] - These are much needed funds from Peers donated by Financial Service Givers to fund Peer
 
 dreams. This also includes escrow[ES] services where Fund Keepers are not available and not reliable.
-f) Other Service Providers [OSP]- These could be legal, spiritual, educational service providers
+f) Other Service Providers [OSP]- These could be counselling[CoS], legal[LeS], spiritual[SpS], educational service[EdS] providers
