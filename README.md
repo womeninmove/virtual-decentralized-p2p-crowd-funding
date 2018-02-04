@@ -113,3 +113,72 @@ d) 	Mediatory Services[MS] - Social media groups are managed by Peers whose effo
 e) 	Financial Services[FK] - These are much needed funds from Peers donated by Financial Service Givers to fund Peer
 	dreams. This also includes escrow[ES] services where Fund Keepers are not available and not reliable.
 f) 	Other Service Providers [OSP]- These could be counselling[CoS], legal[LeS], spiritual[SpS], educational service[EdS] providers
+
+J: RISKS AND DISADVANTAGES:
+
+This type of funding is similar to gambling. A Participant is not donated to unless and until 
+he/she has donated to the community or to a Peer and has been confirmed. The donation made
+is done freely, willingly and knowing that it might not have returns but has a speculative 
+element of high returns. Donation is not only money, but services too.
+
+Why call it donation not gambling or something like lotto? In gambling, there is a very low probability of wining. In
+this P2P donor donated fund raising scheme, there is guaranteed returns to many participants. Lotto is 
+pure gambling blessed by law. It has the highest risk ever and millions of lotto players have lost millions of 
+money without getting anyone arrested.
+
+The principle of collecting money from many participants to fund a few has been criticised to a point 
+that these schemes have evolved to socio-economic models of donor-donated rather that 
+investments schemes with ROI.
+
+K: TAX EVASION:
+
+The Virtual Decentralized P2P does not evade tax. It is not a company with income. Participants in their own 
+capacity need to solve tax issues as they do with FICA, Know Your Customer in their Peer to Peer financial 
+transactions and in their own national laws. It is easy. If ones' donation is doubled or tripled and the person or 
+company meets tax requirements then issue of Tax evasion false away.
+
+Since each Peer is fully empowered then it is the Peer who is responsible for all these. Do not equate Virtual Decentralized P2P
+to an entity must a movement to help others with needed funds quickly.
+
+However, Peers should be educated and helped to follow laws and taxes as all other entities of state including 
+churches and NPOs.
+
+L: SHORT LEAVED SCHEMES:
+
+Pyramid Schemes and Scam website have been known to be short leaved and to close when there is high demand for 
+payouts. Virtual Decentralized P2P Crowd Funding is not money focused but addresses a social key problem and then 
+creates a community to grows for ever. For example, Women In Move tackles the problem of underrating women and empowering
+them socially and economically. 
+
+If adopted by all governments and by all women and supported by all men Women In Move 
+will leave forever rather than short term money. 
+
+Embracing the spiritual and social virtues of giving - donating as well
+as the economic need to bless other people and see them succeed financial, WIM and its philosophy not only 
+breed millionaires but millionaires out of socially and economically disadvantaged groups.
+
+M: HOW WILL THIS BE POSSIBLE:
+
+Virtual Decentralized P2P uses cycles and phases, round robin advance Fund Keeping and payouts to minimized bottle necks
+. Re-donating, prioritized services, eliminating greediness and creating loyalty Peers are but a few ways to 
+circumvent quick crashes.
+
+Integrations with Crypto Coin, Peer directed donations and integration with all possible mainstream decentralized
+financial schemes.
+
+All existing stockvels can double their savings by also enlisting in this scheme to be donated to. This will also 
+boost the Virtual Decentralized P2P Crowd Fund Venture.
+
+N: SCOPE OF DONATION:
+
+Financial donations are the base but not the only essential donations. Other donations badly needed are in form of 
+services: Financial Advice, Counselling, Legal, Spiritual, Business Networking, Educational, Marketing, ICT, etc.
+
+
+
+
+
+
+
+
+
