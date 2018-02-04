@@ -138,7 +138,7 @@ transactions and in their own national laws. It is easy. If ones' donation is do
 company meets tax requirements then issue of Tax evasion false away.
 
 Since each Peer is fully empowered then it is the Peer who is responsible for all these. Do not equate Virtual Decentralized P2P
-to an entity must a movement to help others with needed funds quickly.
+to an entity but to a movement to help others with needed funds quickly.
 
 However, Peers should be educated and helped to follow laws and taxes as all other entities of state including 
 churches and NPOs.
@@ -147,11 +147,10 @@ L: SHORT LEAVED SCHEMES:
 
 Pyramid Schemes and Scam website have been known to be short leaved and to close when there is high demand for 
 payouts. Virtual Decentralized P2P Crowd Funding is not money focused but addresses a social key problem and then 
-creates a community to grows for ever. For example, Women In Move tackles the problem of underrating women and empowering
+creates a community that grows forever. For example, Women In Move tackles the problem of underrating women and empowering
 them socially and economically. 
 
-If adopted by all governments and by all women and supported by all men Women In Move 
-will leave forever rather than short term money. 
+If adopted by all governments and by all women and supported by all men Women In Move will leave forever.
 
 Embracing the spiritual and social virtues of giving - donating as well
 as the economic need to bless other people and see them succeed financial, WIM and its philosophy not only 
@@ -159,11 +158,12 @@ breed millionaires but millionaires out of socially and economically disadvantag
 
 M: HOW WILL THIS BE POSSIBLE:
 
-Virtual Decentralized P2P uses cycles and phases, round robin advance Fund Keeping and payouts to minimized bottle necks
-. Re-donating, prioritized services, eliminating greediness and creating loyalty Peers are but a few ways to 
+Virtual Decentralized P2P uses cycles and phases, round robin donations, advanced Fund Keeping and advanced payouts to minimized bottle necks
+
+. Re-donating, prioritized services, eliminating greediness, and creating loyal Peers are but a few ways to 
 circumvent quick crashes.
 
-Integrations with Crypto Coin, Peer directed donations and integration with all possible mainstream decentralized
+Integrations with Crypto Coin, Peer directed donations and integration with all possible decentralized
 financial schemes.
 
 All existing stockvels can double their savings by also enlisting in this scheme to be donated to. This will also 
