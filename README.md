@@ -203,7 +203,7 @@ Platform staff, support and other service providers like marketing or CS have no
 
 Take it the other way, suppose a Peer who started with R200 ends up with R18000. A staff member confronts the Peer and claims a significant share in R18000 because he/she provided services and support to make Peer win. This will not work because it violates rules of the community. The same way, no Peer should request for refund or be refunded on perceived loss.
 
-Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers.
+Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers. Play the game to accept either a win or a lose.
 
 However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
 
