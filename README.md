@@ -176,19 +176,17 @@ services: Financial Advice, Counselling, Legal, Spiritual, Business Networking, 
 
 I: REMUNERATIONS AND SALARIES:
 
-Since by its nature the P2P is not centralized and has no one central pool to keep donations in all services and products costs are met via donations. Not via salaries. It is common and a bad practise for origionators, leaders, or controllers to pay themselves millions underground without objectively qualifying that and worse letting the other Peers know about. 
+Since by its nature the P2P is not centralized and has no one central pool to keep donations. All costs for  services and products are met via donations. Not via salaries. It is common and a bad practise for origionators, leaders, or controllers to pay themselves millions underground without objectively qualifying that and worse hiding it form other Peers. 
 
-It is a challenge to let Peers collectively solve this problem of remunerating services rendered because they are very diverse and inconsistent in their availability. Some donate R200 and repeat R32000 without worry about those who spent sleepless nights building and running the platform that has enriched them.
+The VD P2P needs to evolve and be transparant. It should avoid what could be likened to : Officials creating a match in which they are player referees. A match where they award themselves not even penalties, but scores. This is where the public cry foul and call these ventures scams and fraud.
 
-The VD P2P needs to evolve and have transparancy. Avoid what could be likened to : Officials creating a match in which they are player referees where they award themselves not even penalties but scores just to win the match. This is where the public cry foul and call these ventures scams and fraud.
+If one person risks and donates 1 million. It is clear that this amount will bless a lot of participants for some months and depending on a platform, the person may in turn be donated 2 million. There is no need to disclose these Peers because privacy and anonymity are values of VD P2P. However, it is not fare for a person who calls himself/herself a leader without contributing  or with minimal contribution to demand a million out of thin air.This is an indirect way of scaming/defrauding the other Peers. 
 
-If one person risks and donates 1 million. It is clear that this amount will bless a lot of participants for some period and depending on platform, the person may in turn be donated 2 million. There is no need to disclose these Peers because privacy and anonymity are values of VD P2P. However, it is not fare for a person who calls himself/herself a leader without contributing  or with minimal contribution to demand a million out of thin air.This is an indirect way of scaming people. 
-
-It is different for a service provider who does not sleep providing critical services for the community to be properly looked after because the platform will not exist and Peers will not benefit. He/She is the pillar of the community.This is inclusive of the support Peers.
+It is a different case if a service provider provides critical services to the community and demands to be properly looked after because the platform will not exist and Peers will not benefit if those services are not rendered. He/She/They is/are the pillar/s of the community. This is inclusive of the support Peers.
 
 The crypto currency ecosystem has made developers millonnaires, miners millionnaires, exchanges millionnaires and traders millionnires but no one complains because there is a degree of transparency. Same with VD P2P it can also function the same because all these are decentralised financial schemes. There ought to be a declared service way of being donated to rather than to operate in the dark. Please note that service providers do not own the scheme just like developers, miners and exchanges do not own the bitcoin or the cryptocurrency.
 
-This is should be good news to those that want to invest. Investment here is not limited to finance, but critical services as defined above.
+This should be good news to those that want to invest in VD P2P such as WIM. Investment here is not limited to finance, but critical services as defined above.
 
 
 
