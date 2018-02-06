@@ -189,7 +189,7 @@ The crypto currency ecosystem has made developers millonnaires, miners millionna
 This should be good news to those that want to invest in VD P2P such as WIM. Investment here is not limited to finance, but critical services as defined above.
 
 
-J: PEER SECURITY VIA ANONYMITY:
+J: PEER SECURITY, ANONYMITY AND INTEGRITY:
 
 The crypto world employ computer science tools to hash identities and thus achieve anonymity of members because by being public Peers can be hijacked or robbed. Virtual Decentralized P2P members are adviced to create different names best names that are not on social media, create different emails.
 
@@ -206,6 +206,12 @@ Take it the other way, suppose a Peer who started with R200 ends up with R18000.
 Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers. Play the game to accept either a win or a lose.
 
 However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
+
+Distributing profile information of Peers with images as a deterrent to fraud or scam is not professional and violates Peer commitments to privacy and Non Disclosure of identities and information. Verbal abuse or abuse of any nature on the cyber space is also unprofessional and undermines Peer to Peer respect. Peer to Peer interactions are always suspecious. The true identities of online Peers is impossible to aunthenticate and verify. 
+
+What makes it even more difficult is the fact that one individual can have multiple internet identities with differenct profile images. Most profile images are collages edited to potray certain characters. Even if one Peers feels he/she knows where a Peer lives, works, etc. Face it there is no way we can prove the Peer made an internet transaction. It could be a friend or group of people of child or someone. This therefore defines a Virtual Decentralized P2P as a trustless community. Paradoxically, it works efficiently and functions like a trustful community regulated by  judiciary, executive and administrative organs.
+
+
 
 
 
