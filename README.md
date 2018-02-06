@@ -193,7 +193,7 @@ J: PEER SECURITY VIA ANONYMITY:
 
 The crypto world employ computer science tools to hash identities and thus achieve anonymity of members because by being public Peers can be hijacked or robbed. Virtual Decentralized P2P members are adviced to create different names best names that are not on social media, create different emails.
 
-The account name and surname should be different. Email should be correct but a new email that is not on social media. Use new trading bank accounts specific to this activity. Should one tries to stalk an account, it should be difficult  but details for Peers to contact each other should be correct. Let illustrate this:
+The account name and surname should be different. Email should be correct but a new email that is not on social media. Use new trading bank accounts specific to this activity. Should one tries to stalk an account, it should be difficult  but details for Peers to contact each other should be correct. Let us illustrate this:
 
 I open an account using Dirty Pastor, register an email voetleng@gmail.com and use a correct RICAed cell and correct bank account but of my cousin at FNB. Create dream, donate, and get it confirmed. When Peers call to confirm your details, they need not worry that the account name is not the account holder name. The only Know Your Customer needed here is verify that the account holder knows the order and that the order is correct from the system depatched. This is important because, Peers are in different countries and again Peers must not follow to claim their donations back.
 
@@ -201,11 +201,11 @@ If they need refund, they log a call via the system and if there is a good reaso
 
 Platform staff, support and other service providers like marketing or CS have no liability to loss incurred by any Peer. Why? It works the same way as lotto staff be it developers, workers, support or staff of a cassino are not held liable for a gamblers' lose or win. 
 
-Take it the other way, you win from R200 run now you have R18000 and a staff comes to you and claims a significant share in your fortune because he/she provided services and support to make you win. Virtual Decentralized P2P is not anarchy or ruled by laws of the jungle or should it operate by trial and error.
+Take it the other way, suppose a Peer who started with R200 ends up with R18000. A staff member confronts the Peer and claims a significant share in R18000 because he/she provided services and support to make Peer win. This will not work because it violates rules of the community. The same way, no Peer should request for refund or be refunded on perceived loss.
 
-Another good reason to respect transactions and never ask for refunds: A paid B who paid C who paid D, E and F and who in their turns paid other Peers. G also got paid by E and also paid B. C paid F and F paid A. These happen in different times, different regions and different countries. The question is how do we refund each other here in case of a failed game or crash? Same with the bitcoin, a loss is a loss. Transactions reversal are not possible and not encouraged at all.
+Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers.
 
-However, losses can be compensated by routing new donations to affected population.
+However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
 
 
 
