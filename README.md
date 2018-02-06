@@ -174,6 +174,22 @@ N: SCOPE OF DONATION:
 Financial donations are the base but not the only essential donations. Other donations badly needed are in form of 
 services: Financial Advice, Counselling, Legal, Spiritual, Business Networking, Educational, Marketing, ICT, etc.
 
+I: REMUNERATIONS AND SALARIES:
+
+Since by its nature the P2P is not centralized and has no one central pool to keep donations in all services and products costs are met via donations. Not via salaries. It is common and a bad practise for origionators, leaders, or controllers to pay themselves millions underground without objectively qualifying that and worse letting the other Peers know about. 
+
+It is a challenge to let Peers collectively solve this problem of remunerating services rendered because they are very diverse and inconsistent in their availability. Some donate R200 and repeat R32000 without worry about those who spent sleepless nights building and running the platform that has enriched them.
+
+The VD P2P needs to evolve and have transparancy. Avoid what could be likened to : Officials creating a match in which they are player referees where they award themselves not even penalties but scores just to win the match. This is where the public cry foul and call these ventures scams and fraud.
+
+
+
+
+
+
+
+
+
 
 
 
