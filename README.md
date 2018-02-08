@@ -188,6 +188,9 @@ The crypto currency ecosystem has made developers millonnaires, miners millionna
 
 This should be good news to those that want to invest in VD P2P such as WIM. Investment here is not limited to finance, but critical services as defined above.
 
+It will always be hard to confront various organization for transparancy with this regard. As a start proposing a 20-25% of monthly transactions to be monthly remuneration for system staff, system operational costs such as data, sms etc is one way of being transparent. It is better than unknown and undeclared payments to those origionators and admin personnel.
+
+Recruitment is promoted via 10% earnings and every one is happy with this and so why not be happy with 20 - 25% of monthly transactions to look after those system developers. Without system and its technical staff the Virtual Decentralized P2P will not work. This therefore will transform VD P2P CF to a Transparent platform.
 
 J: PEER SECURITY, ANONYMITY AND INTEGRITY:
 
@@ -210,6 +213,24 @@ However, genuine losses caused by system allocatons or support can be compensate
 Distributing profile information of Peers with images as a deterrent to fraud or scam is not professional and violates Peer commitments to privacy and Non Disclosure of identities and information. Verbal abuse or abuse of any nature on the cyber space is also unprofessional and undermines Peer to Peer respect. Peer to Peer interactions are always suspecious. The true identities of online Peers is impossible to aunthenticate and verify. 
 
 What makes it even more difficult is the fact that one individual can have multiple internet identities with differenct profile images. Most profile images are collages edited to potray certain characters. Even if one Peers feels he/she knows where a Peer lives, works, etc. Face it there is no way we can prove the Peer made an internet transaction. It could be a friend or group of people of child or someone. This therefore defines a Virtual Decentralized P2P as a trustless community. Paradoxically, it works efficiently and functions like a trustful community regulated by  judiciary, executive and administrative organs.
+
+K: ALLOCATION & PAYMENTS
+
+Normally the default expected donations allocations procedure is First Come First Serve FCFS. Meaning those that got confirmed first will have their dreams paid for first.
+
+This has a problem. There is a tendence of first 3 months or so registered members to monopolize the platform by creating many dreams each leading to the rest of the months members joining later to be only donors. The rule any can create as many dreams as he/she wants is good by the allocation procedure should embrace fairness by running a Round Robin First Come First Serve [RRFCFS]. This will encourage Peers to feel secure joining even in later months and will also spread benefits to more Peers.
+
+Since the rate of new members joining is finite over a given period and the reinvestment of those donated to is not gauranteed introducing phases and cycles where the previously disadvanted Peers become frontliners of new phases/cycles will not only minimize catastrophic loss of late comers but also ensure that the P2P runs forever.
+
+Services such as counselling of transitional members and also support will be very vital and will also boost the P2P. The P2P will then be a P2P with a Peer Conscience. 
+
+Another boost will be, later comers who recruit have their refferral earnings paid first since their dreams are at the end of the queue.
+
+Payments normally run well within first months and then begin to face challenges later. This is caused by the speculative nature of the P2P and by drying recruitment channels. P2P should evolve from being a do or die finaly game into a social engagement something like a friendly match which is a match played solely for its social and happiness purposes. How can this be done? Eliminate hard and fast rules with regards 100%, 90%, 80%  etc returns when times are hard  and introduce them to boost P2P when it is in boom. Understand there are times when people have money and times when people do not have money.
+
+All must appreciate that P2P is by far the best wide spread funding ever to exit although it will not fund all its members.
+
+
 
 
 
