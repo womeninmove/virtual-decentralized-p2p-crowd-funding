@@ -218,15 +218,17 @@ K: ALLOCATION & PAYMENTS
 
 Normally the default expected donations allocations procedure is First Come First Serve FCFS. Meaning those that got confirmed first will have their dreams paid for first.
 
-This has a problem. There is a tendence of first 3 months or so registered members to monopolize the platform by creating many dreams each leading to the rest of the months members joining later to be only donors. The rule any can create as many dreams as he/she wants is good by the allocation procedure should embrace fairness by running a Round Robin First Come First Serve [RRFCFS]. This will encourage Peers to feel secure joining even in later months and will also spread benefits to more Peers.
+This has a problem. There is a tendence of first 3 months or so registered members to monopolize the platform by creating many dreams each leading to the rest of the months members joining later to be only donors. The rule that anyone can create as many dreams as he/she wishes is good but the allocation procedure should embrace fairness by running a Round Robin First Confirmed First Serve [RRFCFS]. This will encourage Peers to feel more secure joining in later months and will also spread benefits to more Peers.
 
-Since the rate of new members joining is finite over a given period and the reinvestment of those donated to is not gauranteed introducing phases and cycles where the previously disadvanted Peers become frontliners of new phases/cycles will not only minimize catastrophic loss of late comers but also ensure that the P2P runs forever.
+Since the rate of new members joining is finite over a given period and the reinvestment of those donated to is not gauranteed, introducing phases and cycles where the previously disadvanted Peers become frontliners of new phases/cycles will not only minimize catastrophic loss of late comers but also ensure that the P2P runs forever.
 
-Services such as counselling of transitional members and also support will be very vital and will also boost the P2P. The P2P will then be a P2P with a Peer Conscience. 
+Services such as counselling of transitional members and also supporting them will be very vital and will also boost the P2P. The P2P will then be a P2P with a Peer Conscience. A P2P with well informed members, members with a conscience to Tax needs, members with an ethical and social dimension. Non governmental organizations are free to donate to these P2P or to work hand in hand with them because pure donations are root activity of Virtual Decentralized P2P.
 
 Another boost will be, later comers who recruit have their refferral earnings paid first since their dreams are at the end of the queue.
 
-Payments normally run well within first months and then begin to face challenges later. This is caused by the speculative nature of the P2P and by drying recruitment channels. P2P should evolve from being a do or die finaly game into a social engagement something like a friendly match which is a match played solely for its social and happiness purposes. How can this be done? Eliminate hard and fast rules with regards 100%, 90%, 80%  etc returns when times are hard  and introduce them to boost P2P when it is in boom. Understand there are times when people have money and times when people do not have money.
+Payments normally run well within first months and then begin to face challenges later. This is caused by the speculative nature of the P2P and by drying recruitment channels. P2P should evolve from being a do or die investment game into a social engagement something like a friendly match in which players play the game for its social and happiness purposes.
+
+How can this be done? Eliminate hard and fast rules with regards 100%, 90%, 80%  etc returns when times are hard  and introduce them to boost P2P when it is in boom. Understand there are times when people have money and times when people do not have money.
 
 All must appreciate that P2P is by far the best wide spread funding ever to exit although it will not fund all its members.
 
