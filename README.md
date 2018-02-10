@@ -232,6 +232,10 @@ How can this be done? Eliminate hard and fast rules with regards 100%, 90%, 80% 
 
 All must appreciate that P2P is by far the best wide spread funding ever to exit although it will not fund all its members.
 
+L: CONTRACTS:
+
+Virtual operations like membership is made upon joining the platform. Joining signals commitment to rules and conditions to ensure fairness. Abitration and punitive measures for not adhering to expected rules and conditions is done virtually because members do not physically meet. Consensus on the group is important and is exercised via donations and social group votes.
+
 
 
 
