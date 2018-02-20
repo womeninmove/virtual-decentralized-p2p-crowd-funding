@@ -236,13 +236,18 @@ L: CONTRACTS:
 
 Virtual operations like membership is made upon joining the platform. Joining signals commitment to rules and conditions to ensure fairness. Abitration and punitive measures for not adhering to expected rules and conditions is done virtually because members do not physically meet. Consensus on the group is important and is exercised via donations and social group votes.
 
-M: BANK ACCOUNTS AND WIM ACCOUNTS:
+M: BANK ACCOUNTS, WIM ACCOUNTS AND TRANSACTIONS JUSTIFICATIONS:
 
 Different bank accounts can be used by one person but each WIM account will need a new cell number and a new email. The bank account used need not be the bank account of the WIM account holder because one can open an account for grandmother or grandfather  or for a relative in rural areas or a relative without a bank account.
 
 Peers can also send money to each other quickly via e-wallet or bitcoin as long as on system the paid Peer confirms that he/she received the money and can provide proof with a screen shot.
 
 Remember no one will confirm another Peer without receiving the money and Peer allocations is determined randomnly. Therefore, this is secure, flexible and helps reach out many people in rural areas.
+
+Peers handle transactions between themselves and using their own bank accounts. Peers can be companies or other stockvels too. 
+Banks and Financial regulatory bodies block bank accounts who transactions are not clearly defined. Financial transactions are for services rendered and received by Peers. These are outlined above in section I.iii).
+
+
 
 
 
