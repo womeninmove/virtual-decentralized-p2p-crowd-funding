@@ -98,7 +98,9 @@ Virtual DP2P Crowd Funding communities need the following to be out of scam para
  
  BTC global banked their bitcoins on one person and one person was the Pay Master. This has one big point of failure.
  
- Virtual DP2P makes everyone a Fund Keeper meaning after being confirmed as a donor a Peer is given Funds to keep. This prevents all funds going to one bank account.
+ Virtual DP2P makes everyone a Fund Keeper meaning after being confirmed as a donor a Peer is given Funds to keep. This prevents  all funds going to one bank account.
+ 
+ By the above definition of a scam Virtual DP2P does not have central control but distributed specialized duties, does not misrepresent information because there are rules clearly defined, terms and conditions clearly defined, and a white paper with the philosophy of the p2p donation project. Since there are not contracts written or implied than requirements for joining and functioning as a full member there is no individual or company or group to take to court for scam or fraud. Fraudsters are blocked and if the administration does not deliver as expected pressure groups check on them or members quickly exit.
 
 G: BENEFICIARIES AND LOSERS:
 
