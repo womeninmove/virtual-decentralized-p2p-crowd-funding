@@ -43,11 +43,17 @@ where ever a Peer is. Eliminates the need to travel to a central place and be su
 - bridge digital gap by putting to good use ICT technologies.
 - integrate with main stream financial systems.
 
-D: OWNERSHIP:
+D: OWNERSHIP, ADMINISTRATION STAFF, SERVICE PROVIDING STAFF:
 
 Almost all Participants of P2P schemes do not want accountability and ownership because each Peer is directly linked 
 to the other Peer, funds are personally exchanged without a middle man. The moment it is owned by a person, a company or group
 of people then it ceases being decentralized.
+
+Like a church, Virtual DP2P is not owned by a single company or individual otherwise that individual or company must get it registered as a Financial Institution, then follow all legal requirements include FICA, AWL, paying tax. For this to happen P2P ceases to exist because all Peers now must be accountable to the demands of the owner and must pay donations to the owner who in turn regulates and complies to legal requirements. If an individual or company does collect all money from Peers and fails to fulfill Peer demands then this is a pure Ponzi scheme that enriches the individual or company.
+
+Virtual DP2P administrators names Community Guadians CGs do not own the Virtual DP2P project. Similarly the Service Providers like IT Staff, Fund Keepers, Support Staff, Consulting Staff[Marketers], etc do not own the project and are not liable for its success or failure. These provide essential services which make the Virtual DP2P function. Without them no even one person will be helped.
+
+These must be regulated in a fair and transparent manner so that they are motivated to continue giving their badly needed services.
 
 E:LEGALITY/LEGIT/Misconceptions:
 
@@ -81,6 +87,18 @@ Virtual DP2P Crowd Funding communities need the following to be out of scam para
 -eliminate dishonest and misinformation and unnecessary anonymous operations. When an adult gambles his/her 
  salary away in a Casino it is not a scam because of these principles: knowledge, freedom, will and legal age 
  are there. Participating Peers read Terms and Conditions and agree to the platform rules.
+ 
+ Examples of scams:
+ 
+ https://www.iol.co.za/dailynews/probe-into-bitcoin-ponzi-scheme-13543805
+
+ https://businesstech.co.za/news/technology/228769/hawks-investigating-multi-million-rand-bitcoin-scam-in-south-africa-report/
+
+ https://www.thesouthafrican.com/btc-global-what-is-cryptocurrency/
+ 
+ BTC global banked their bitcoins on one person and one person was the Pay Master. This has one big point of failure.
+ 
+ Virtual DP2P makes everyone a Fund Keeper meaning after being confirmed as a donor a Peer is given Funds to keep. This prevents all funds going to one bank account.
 
 G: BENEFICIARIES AND LOSERS:
 
