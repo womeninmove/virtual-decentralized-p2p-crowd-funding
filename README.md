@@ -268,7 +268,7 @@ Peers handle transactions between themselves and using their own bank accounts. 
 Banks and Financial regulatory bodies block bank accounts who transactions are not clearly defined. Financial transactions are for services rendered and received by Peers. These are outlined above in section I.iii).
 
 
-
+[*All contributions to this are welcome]
 
 
 
