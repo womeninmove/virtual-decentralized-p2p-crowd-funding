@@ -269,7 +269,7 @@ Banks and Financial regulatory bodies block bank accounts who transactions are n
 
 M: FUNDS KEEPING:
 
-Each Peer is open and operate a Fund Keeper account. It is a good move to make this compulsory. Only WIM Funds Kept will be in this type of account. At any moment the WIM Admin can request a bank statement from this account for these reasons:
+Each Peer is to open and operate a Fund Keeper account. It is a good move to make this compulsory. Only WIM Funds Kept will be in this type of account. At any moment the WIM Admin can request a bank statement from this account for these reasons:
 - to make sure community funds kept are available,
 - to track paid orders,
 - to track dream payments and bonus paments,
