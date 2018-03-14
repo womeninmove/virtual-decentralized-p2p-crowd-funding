@@ -267,6 +267,26 @@ Remember no one will confirm another Peer without receiving the money and Peer a
 Peers handle transactions between themselves and using their own bank accounts. Peers can be companies or other stockvels too. 
 Banks and Financial regulatory bodies block bank accounts who transactions are not clearly defined. Financial transactions are for services rendered and received by Peers. These are outlined above in section I.iii).
 
+M: FUNDS KEEPING:
+
+Each Peer is open and operate a Fund Keeper account. It is a good move to make this compulsory. Only WIM Funds Kept will be in this type of account. At any moment the WIM Admin can request a bank statement from this account for these reasons:
+- to make sure community funds kept are available,
+- to track paid orders,
+- to track dream payments and bonus paments,
+- to promote member self descipline with regard savings.
+
+The Funds Kept by Peer will be released as Peer payment for matured dreams. The withdrawal of these funds must enter the dream reference number.
+
+Disciplined and good Fund Keepers will be allowed to keep even more Funds than their donations but security must be in place to prevent loss of Funds.
+
+Advantages: 
+
+- this eliminates few people keeping funds for all Peers and eliminates loss of funds from a single point of funds repository such as Bank Account being hacked etc.
+- distributed Fund Keeping eliminates payments bottlenecks at any point in time such as during festive seasons. This has been the cause of many platforms closing. 
+- this will encourage new members to join as there is security.
+
+Disadvantages:
+- grannies and other Peers may not have bank accounts. Leaders must assist these with this problem. These may apply for Fund Keeping exemptions.
 
 [*All contributions to this are welcome]
 
