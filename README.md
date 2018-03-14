@@ -267,7 +267,7 @@ Remember no one will confirm another Peer without receiving the money and Peer a
 Peers handle transactions between themselves and using their own bank accounts. Peers can be companies or other stockvels too. 
 Banks and Financial regulatory bodies block bank accounts who transactions are not clearly defined. Financial transactions are for services rendered and received by Peers. These are outlined above in section I.iii).
 
-M: FUNDS KEEPING:
+N: FUNDS KEEPING:
 
 Each Peer is to open and operate a Fund Keeper account. It is a good move to make this compulsory. Only WIM Funds Kept will be in this type of account. At any moment the WIM Admin can request a bank statement from this account for these reasons:
 - to make sure community funds kept are available,
@@ -287,6 +287,14 @@ Advantages:
 
 Disadvantages:
 - grannies and other Peers may not have bank accounts. Leaders must assist these with this problem. These may apply for Fund Keeping exemptions.
+
+O: GROUP LEADERS:
+
+Group leaders are Peers who create groups online, educate Peers, do consulting, register new members and look after them so that they benefit from the community donations and bonuses. 
+
+Peers get blocked for unpaid orders, get delayed in allocations due other factors and the most common problem is digital divide.  We have good technology users and others with good smart devices but lack skills of using these. This there fore requires collaboration and coordination at a lower level.
+
+Group Management is a good service that must be recognized because without it a significate community population is left behind. This may cause members to leave the group. Thus, GM is to be compensated for via free data etc.
 
 [*All contributions to this are welcome]
 
