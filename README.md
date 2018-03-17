@@ -296,6 +296,10 @@ Peers get blocked for unpaid orders, get delayed in allocations due other factor
 
 Group Management is a good service that must be recognized because without it a significate community population is left behind. This may cause members to leave the group. Thus, GM is to be compensated for via free data etc.
 
+P: CLEAN AND UNCLEAN ACCOUNTS vs REWARD AND PUNISHMENT AND REDEMPTION
+
+Peers who do not pay orders for whatever reasons make their accounts unclean. This inconveniences other Peers and so these accounts must be blocked. Those clean accounts should be rewarded. Blocking alone is not enough but a redemption option must be implemented so that once an account has been redeemed it becomes clean. This can be done by allowing unclean accounts to create Redemption Dreams with less reward such as 50% instead of 100%.
+
 [*All contributions to this are welcome]
 
 
