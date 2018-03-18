@@ -300,6 +300,20 @@ P: CLEAN AND UNCLEAN ACCOUNTS vs REWARD AND PUNISHMENT AND REDEMPTION
 
 Peers who do not pay orders for whatever reasons make their accounts unclean. This inconveniences other Peers and so these accounts must be blocked. Those clean accounts should be rewarded. Blocking alone is not enough but a redemption option must be implemented so that once an account has been redeemed it becomes clean. This can be done by allowing unclean accounts to create Redemption Dreams with less reward such as 50% instead of 100%.
 
+Q: ADMIN INDEMNTY
+
+Resolving problems of delaying confirmation and failure to upload proof of payment by admin is meant to make processes move quickly and fairly. Peers should login and also check their accounts that the proof of payment uploaded by admin or the confirmed member is indeed genuine. If fault is found, they must contact admin to reverse the process because they will be fund keepers of money they did not receive.
+
+Admin will not be held liable for these errors because they have no means to verify that the money is in the paid bank account.
+
+R: AUTOMATIC RE-INVESTMENT OF 30% MATURED DREAMS.
+
+Big dreams may receive automatic re-investment of 30% in order to suppport continued donations to fellow Peers. But the re-invested amount will also grow and benefit owners like all other dreams. Keeping the flow of donations running without stop is the goal to benefit many.
+
+M: LOANS AGAINST DREAMS: ZIDL:
+
+Helping elligible Peers with loans(Zero Interest Donation Loans[ZIDL]) against their dreams during festive seasons or during times of needs where possible is a service which will benefit members of P2P. Peers may borrow against their dreams and only clean confirmed accounts may be considered. If the loan is not repaid and the dream matures, then the dream will be less that borrowed donation amount. No interest should be charged to these because they are donations from Peers and are also an incentives for Peers to keep Clean Accounts[CA].
+
 [*All contributions to this are welcome]
 
 
