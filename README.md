@@ -316,11 +316,11 @@ Helping elligible Peers with loans(Zero Interest Donation Loans[ZIDL]) against t
 
 N: P2P PROFESSIONAL COMMUNICATION SKILLS:
 
-Peers are from all different professions: doctors, educators, national security officers, IT specialist, business managers, cooperative managers and so on and are also from different backgrounds and from different races and nationalities. It is important to communicate positively, truthfully and politely. New members are most fearful and can quickly withdraw at any moment they feel unsafe and unsecure.
+Peers are from all different professions: doctors, educators, national security officers, IT specialist, business managers, cooperative managers and so on and are also from different backgrounds and from different races and nationalities. It is important to communicate positively, truthfully and politely. New members are most fearful and can quickly withdraw at any moment they feel unsafe and insecure.
 
 By virtue of being an online community great care should be taken by all Peers to use every effort to communicate in a professional manner.
 
-Peers should be patient, should be good listeners, be polite, be positive, be confident, be factual than emotional, be quick to respond, should call back all missed calls, leave voice notes to non available Peers and NEVER discredit other Peers on social media groups. Use official email to send queries about a particular Peer NEVER use social media groups.
+Peers should be patient, good listeners, polite, positive, confident, factual than emotional, quick to respond. Should call back all missed calls, leave voice notes to non available Peers and NEVER discredit other Peers on social media groups. Use official email to send queries about a particular Peer NEVER use social media groups. Chances are many that you do not have sufficient facts.
 
 The reason is discrediting other Peers publicly may  prevent genuine pending orders from being fulfilled.
 
