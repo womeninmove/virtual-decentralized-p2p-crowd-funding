@@ -312,7 +312,7 @@ Big dreams may receive automatic re-investment of 30% in order to suppport conti
 
 M: ZERO INTEREST LOANS AGAINST DREAMS: ZILAD:
 
-Helping elligible Peers with loans(Zero Interest Donation Loans[ZILAD]) against their dreams during festive seasons or during times of needs where possible is a service which will benefit members of P2P. Peers may borrow against their dreams and only clean confirmed accounts may be considered. If the loan is not repaid and the dream matures, then the dream will be less that borrowed donation amount. No interest should be charged to these because they are donations from Peers and are also an incentives for Peers to keep Clean Accounts[CA].
+Helping elligible Peers with loans(ZERO INTEREST LOANS AGAINST DREAMS[ZILAD]) against their dreams during festive seasons or during times of needs where possible is a service which will benefit members of P2P. Peers may borrow against their dreams and only clean confirmed accounts may be considered. If the loan is not repaid and the dream matures, then the dream will be less that borrowed donation amount. No interest should be charged to these because they are donations from Peers and are also an incentives for Peers to keep Clean Accounts[CA].
 
 N: P2P PROFESSIONAL COMMUNICATION SKILLS:
 
