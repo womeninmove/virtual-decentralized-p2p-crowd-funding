@@ -332,6 +332,8 @@ When dream matures, first donation for the maturity value comes from Funds Kept 
 
 If the Funds Kept falls short of the dream maturity value then short fall gets donated to by the Peers via orders created from new dreams or via other quick safe means avalaible.
 
+If Fund Keeping proceedures have been followed properly the realization of matured dreams should not be a problem and this will create confidence in all members.
+
 
 [*All contributions to this are welcome]
 
