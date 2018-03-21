@@ -310,9 +310,9 @@ R: AUTOMATIC RE-INVESTMENT OF 30% MATURED DREAMS.
 
 Big dreams may receive automatic re-investment of 30% in order to suppport continued donations to fellow Peers. But the re-invested amount will also grow and benefit owners like all other dreams. Keeping the flow of donations running without stop is the goal to benefit many.
 
-M: LOANS AGAINST DREAMS: ZIDL:
+M: ZERO INTEREST LOANS AGAINST DREAMS: ZILAD:
 
-Helping elligible Peers with loans(Zero Interest Donation Loans[ZIDL]) against their dreams during festive seasons or during times of needs where possible is a service which will benefit members of P2P. Peers may borrow against their dreams and only clean confirmed accounts may be considered. If the loan is not repaid and the dream matures, then the dream will be less that borrowed donation amount. No interest should be charged to these because they are donations from Peers and are also an incentives for Peers to keep Clean Accounts[CA].
+Helping elligible Peers with loans(Zero Interest Donation Loans[ZILAD]) against their dreams during festive seasons or during times of needs where possible is a service which will benefit members of P2P. Peers may borrow against their dreams and only clean confirmed accounts may be considered. If the loan is not repaid and the dream matures, then the dream will be less that borrowed donation amount. No interest should be charged to these because they are donations from Peers and are also an incentives for Peers to keep Clean Accounts[CA].
 
 N: P2P PROFESSIONAL COMMUNICATION SKILLS:
 
