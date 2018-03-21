@@ -324,6 +324,15 @@ Peers should be patient, good listeners, polite, positive, confident, factual th
 
 The reason is discrediting other Peers publicly may  prevent genuine pending orders from being fulfilled.
 
+O: DREAMS MATURITY DONATION
+
+Matured dreams have a target maturity value. Peers undertake willingly, freely, and knowingly to fulfill the maturity value because every confirmed Peer has at least one dream to achieve.
+
+When dream matures, first donation for the maturity value comes from Funds Kept by the relavant Peer. If the Peer is Keeping Funds more than the dream maturity value then the dream gets donated to from Funds Kept. This is quick and safe.
+
+If the Funds Kept falls short of the dream maturity value then short fall gets donated to by the Peers via orders created from new dreams or via other quick safe means avalaible.
+
+
 [*All contributions to this are welcome]
 
 
