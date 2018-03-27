@@ -288,6 +288,8 @@ Advantages:
 Disadvantages:
 - grannies and other Peers may not have bank accounts. Leaders must assist these with this problem. These may apply for Fund Keeping exemptions.
 
+Fund Keeping Booster Allocations [FKBA] - is an adhoc preferential orders creation where the selected Peers usually those with big dreams or Special Consulting Services are allocated more funds to their FK pocket. Admin normally do this in advance but where a Peer feels he/she needs more funds is welcome to apply.
+
 O: GROUP LEADERS:
 
 Group leaders are Peers who create groups online, educate Peers, do consulting, register new members and look after them so that they benefit from the community donations and bonuses. 
