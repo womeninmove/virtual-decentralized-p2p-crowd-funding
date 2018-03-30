@@ -336,6 +336,24 @@ If the Funds Kept falls short of the dream maturity value then short fall gets d
 
 If Fund Keeping proceedures have been followed properly the realization of matured dreams should not be a problem and this will create confidence in all members.
 
+O: INDOSAKUSA - THE MORNING STAR DREAMS CASH OUT
+
+Emergencies that required immediate funding and cannot be postponed can be met by Indosakusa Dreams Surrender.  In simple terms eventualities like death, property reposession, blacklisted and so on can be funded by letting the applicant surrender his/her dreams for badly needed cash.
+
+Eligibility: member must be at least 30 days, have created multiple dreams 3, dreams created on different days, of different periods, dreams of different amounts, each dream at least R2000, have consulted and brought in at least 15 members and pledges to be with WIM forever.
+
+Procedure: WIM via Admin will create Indosakusa dreams, from those dreams get orders which are assigned to admin to out dreams of Indosakusa applicants. Successful applicants will surrender their dreams and in turn donated to badly needed cash to be used for funeral, saving car/house from being repossessed. These surrendered dreams will not belong to WIM Admin but to WIM and will grow to maturity and the maturity amounts will be for WIM most needy members: Grannies, pay essential WIM essential services like International Financial Routers[IFRs] or those WIM Low Benefit Index[A ratio which measures how much benefit a member got from being a WIM Member].
+
+How much cash? The Total Donations for those dreams made plus 33% of Total Donations. E.g. Peer A made Total Donation of 45000 and will qualify for at most R45000 Plus R14850.00(33% of 45000).
+
+Frequency: One benefit per successful applicant per annual.
+
+Benefits: This will create long term WIM membership and loyalty and value in all communities. This will further boost the benevolent spirit amoung Donors and the Donated : The Blessers and The Blessed.
+
+Short Falls: Successful applicants are helped in times of need but lose their dreams and their maturity to the community. Peers can create new dreams and get confirmed on these after benefiting from Indosakusa Dreams Cash Out.
+
+
+
 
 [*All contributions to this are welcome]
 
