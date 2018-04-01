@@ -336,9 +336,9 @@ If the Funds Kept falls short of the dream maturity value then short fall gets d
 
 If Fund Keeping proceedures have been followed properly the realization of matured dreams should not be a problem and this will create confidence in all members.
 
-O: INDOSAKUSA - THE MORNING STAR DREAMS CASH OUT
+O: INDOSAKUSA - THE MORNING STAR - DREAMS CASH OUT
 
-Emergencies that required immediate funding and cannot be postponed can be met by Indosakusa Dreams Surrender.  In simple terms eventualities like death, property reposession, blacklisted and so on can be funded by letting the applicant surrender his/her dreams for badly needed cash.
+Emergencies that required immediate funding and cannot be postponed can be met by Indosakusa Dreams Surrender.  In simple terms eventualities like death, property reposession, blacklisted, evicted from house - no rent! and so on can be funded by letting the applicant surrender his/her dreams for badly needed cash.
 
 Eligibility: member must be at least 30 days, have created multiple dreams 3, dreams created on different days, of different periods, dreams of different amounts, each dream at least R2000, have consulted and brought in at least 15 members and pledges to be with WIM forever.
 
