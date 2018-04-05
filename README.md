@@ -352,6 +352,15 @@ Benefits: This will create long term WIM membership and loyalty and value in all
 
 Short Falls: Successful applicants are helped in times of need but lose their dreams and their maturity to the community. Peers can create new dreams and get confirmed on these after benefiting from Indosakusa Dreams Cash Out.
 
+P: FINANCIAL ROUTERS [FR] 
+
+FR - is a service offered by Peers in different countries. The service is about routing funds global within the shortest possible time. FR will earn 10% of the amount they quickly converted and routed. For example: Peer A in country X has an order to pay Peer B R5000 in country Y. Country X has an FR named XFR and country Y has also an FR named YFR. Both XFR and YFR are confirmed members with significant dreams.
+
+Peer A pays XFR R5000 who in turn sends a message via whatsapp/sms/email to YFR to pay YFR an equivalent of R5000 in Y currency.
+Both XFR and YFR will be paid 10% of the amount they each route correctly and quickly. If they fail, delay, or do not do it correctly they are penalised by paying WIM 10% of the failed amount because someone else will have to do the Funds Routing quickly.
+
+This will make donations reach simple Peers in different countries quickly.
+
 
 
 
