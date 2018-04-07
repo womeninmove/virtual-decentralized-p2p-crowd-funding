@@ -367,7 +367,7 @@ This is a service where by selected Peers distribute donations for Matured Dream
 
 For example: We have 2410 people to be donated to amounts varying from R200 to R4000 and having say 7 x R30000 dreams. To match up 2410 amounts to be paid, Pay Master run special accounts with dreams specifically created to pay.
 
-Admin distributes big dreams to PM and PM pay Peers and get confirmed by paid Peers. Pay Masters will be monitored by Pay Master Supervisors [PMS] whose duty will be to listen to the unpaid Peers and help get them paid. PMS quality check the PM and help them during high demands to distribute donations quickly and correctly.
+Admin distributes big dreams to PM and PM pay Peers and get confirmed by paid Peers. Pay Masters will be monitored by Pay Master Supervisors [PMS] whose duty will be to listen to the unpaid Peers and help them get paid. PMS quality check the PM and help them during high demands to distribute donations quickly and correctly.
 
 
 
