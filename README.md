@@ -361,6 +361,12 @@ Both XFR and YFR will be paid 10% of the amount they each route correctly and qu
 
 This will make donations reach simple Peers in different countries quickly.
 
+Q: PAY MASTER [PM]
+
+This is a service where by selected Peers distribute donations for Matured Dreams, Consulting Services  or Bonuses CSDs. This services solves the problem emanating from having many people  waiting to be paid small amounts and having few big dreams donations. 
+
+For example: We have 2410 people to be donated to amounts varying from R200 to R4000 and havaing say 7 x R30000 dreams. To match up 2410 amounts to be paid, Pay Master run special accounts with dreams specifically created to 
+
 
 
 
