@@ -363,9 +363,9 @@ This will make donations reach simple Peers in different countries quickly.
 
 Q: PAY MASTER [PM]
 
-This is a service where by selected Peers distribute donations for Matured Dreams, Consulting Services  or Bonuses CSDs. This services solves the problem emanating from having many people  waiting to be paid small amounts and having few big dreams donations. 
+This is a service where by selected Peers distribute donations for Matured Dreams, Consulting Services  or Bonuses CSDs. This service solves the problem emanating from having many people  waiting to be paid small amounts and having few big dreams donations. 
 
-For example: We have 2410 people to be donated to amounts varying from R200 to R4000 and havaing say 7 x R30000 dreams. To match up 2410 amounts to be paid, Pay Master run special accounts with dreams specifically created to pay.
+For example: We have 2410 people to be donated to amounts varying from R200 to R4000 and having say 7 x R30000 dreams. To match up 2410 amounts to be paid, Pay Master run special accounts with dreams specifically created to pay.
 
 Admin distributes big dreams to PM and PM pay Peers and get confirmed by paid Peers. Pay Masters will be monitored by Pay Master Supervisors [PMS] whose duty will be to listen to the unpaid Peers and help get them paid. PMS quality check the PM and help them during high demands to distribute donations quickly and correctly.
 
