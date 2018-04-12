@@ -369,7 +369,21 @@ For example: We have 2410 people to be donated to amounts varying from R200 to R
 
 Admin distributes big dreams to PM and PM pay Peers and get confirmed by paid Peers. Pay Masters will be monitored by Pay Member Supervisors [PMS] whose duty will be to listen to the unpaid Peers and help them get paid. PMS quality check the PM and help them during high demands to distribute donations quickly and correctly.
 
+R:WALL 0f FIRE | RING of FIRE
 
+Peers are very much unreliable and especially the new ones and those who have nothing to lose. They created dreams and based on their speculative judgements and feelings withdraw from paying resulting orders.
+
+This causes unpaid Peers to ask for re-allocations.
+
+Problems: DMDR, CSD, FKA that are queued to be donated to have to be suspended until the re-allocations are done. This creates delays and a social media feeling of plartform instability.
+
+Solutions: To protect Peers and ensure re-allocations stop, a Wall of Fire is to be made. 
+
+How will it works: All new members  must be screened by Wall of Fire Members. Their dreams will create orders to be paid to Wall of Fire Members. The WFM will screen and get the new ones donate at least 3 times and be donated to at least 3 times. If a Peer succeeds to conform to WF then the Peer will join the WIM community and should the peer fail to honor orders within the community then the Peer dreams will be used to fund re-allocations.
+
+Peers offering Ring of Fire Service will earn 2.5% for every lost funds they manage to get. For example, X Peer refuses to honor his/her donation to Y Peer. Let us say the amount involved was R5000. If the RoF/WoF Member who manages to convince Peer Y to donate is paid 2.5% of the R5000.
+
+When RoF service is in place, all re-allocations will be sent to them and they will deal with the situation.
 
 
 
