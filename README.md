@@ -385,6 +385,8 @@ Peers offering Ring of Fire Service will earn 2.5% for every lost funds they man
 
 When RoF service is in place, all re-allocations will be sent to them and they will deal with the situation.
 
+Eligibility to be a RFM - Ring of Fire Members: Confirmed Peers, Clean accounts, at least 30 days with WIM, more than 5 dreams of different dates, dreams different amounts: Continual Investor
+
 
 
 
