@@ -123,7 +123,7 @@ i) 	Platform - website for virtual operations.
 ii) Participants - Peers to donate and be donated to.
 iii)Services:
 
-a) 	Fund Keeping[FK] - This is a service from Peers to keeps funds for the community. Any confirmed Peer qualifies.
+a) 	Fund Keeping Donation[FKD] - This is a service from Peers to keeps funds for the community. Any confirmed Peer qualifies.
 	Confirmed means a Participant has completed a verifiable service to build a community e.g. donated, developed 
 	website, marketed.
 b) 	Consulting Services [CS]- traditionally members were tasked with MLM recruitment but this has evolved 
