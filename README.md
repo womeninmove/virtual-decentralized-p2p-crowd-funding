@@ -390,7 +390,7 @@ Eligibility to be a RFM - Ring of Fire Members: Confirmed Peers, Clean accounts,
 R:WALL of FIRE Extended Services | RING of FIRE Extended Services [WoFXS|RoFXS]
 
 The speculative nature of a virtual DP2P can crash the whole system if it builds mistrust amoung members. This is evident when lots of orders are not settled. 
-To avoid this RoFXS is created to consult with these with an aim to create trust. Members who will offer this service will be paid 5% of the outstanding order amount. They will get a list of defaulters and call them on orders not settled.
+To avoid this RoFXS is created to consult with these with an aim to create trust. Members who will offer this service will be paid 10% of the outstanding order amount. They will get a list of defaulters and call them on orders not settled.
 
 
 
