@@ -369,7 +369,7 @@ For example: We have 2410 people to be donated to amounts varying from R200 to R
 
 Admin distributes big dreams to PM and PM pay Peers and get confirmed by paid Peers. Pay Masters will be monitored by Pay Member Supervisors [PMS] whose duty will be to listen to the unpaid Peers and help them get paid. PMS quality check the PM and help them during high demands to distribute donations quickly and correctly.
 
-R:WALL 0f FIRE | RING of FIRE
+R:WALL of FIRE | RING of FIRE [Wof|RoF]
 
 Peers are very much unreliable and especially the new ones and those who have nothing to lose. They created dreams and based on their speculative judgements and feelings withdraw from paying resulting orders.
 
@@ -385,7 +385,12 @@ Peers offering Ring of Fire Service will earn 2.5% for every lost funds they man
 
 When RoF service is in place, all re-allocations will be sent to them and they will deal with the situation.
 
-Eligibility to be a RFM - Ring of Fire Members: Confirmed Peers, Clean accounts, at least 30 days with WIM, more than 5 dreams of different dates, dreams different amounts: Continual Investor
+Eligibility to be a RFM - Ring of Fire Members: Confirmed Peers, Clean accounts, at least 30 days with WIM, more than 5 dreams of different dates, dreams different amounts: Continual Investor.
+
+R:WALL of FIRE Extended Services | RING of FIRE Extended Services [WoFXS|RoFXS]
+
+The speculative nature of a virtual DP2P can crash the whole system if it builds mistrust amoung members. This is evident when lots of orders are not settled. 
+To avoid this RoFXS is created to consult with these with an aim to create trust. Members who will offer this service will be paid 5% of the outstanding order amount. They will get a list of defaulters and call them on orders not settled.
 
 
 
