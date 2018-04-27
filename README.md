@@ -395,7 +395,7 @@ To avoid this RoFXS is created to consult with these with an aim to create trust
 For example if a Peer got scared and cancelled settling an amount of R10000.00.  If a RoFXS officer consults with this peer and the peer changes his/her mind and pays the order:To Pay Members and Admin accounts, then the RoFXS is donated to R1000 for a successful service. This is so because now the other amount is available to settle DMDRs, CSDs, and FKDs. Only PM and Admin accounts will be donated to by defaulters. The defaulters account will be unblocked and their relevant dreams will be confirmed and will start growing.
 
 Who can be a RoFXS?
-This service is for all confirmed members only. Be a Faithful Disciple of WIM and convince scepticals that 
+This service is for all confirmed members only. Be a Faithful Disciple of WIM and convince scepticals that WIM is here to benefit many people.
 
 
 
