@@ -387,10 +387,12 @@ When RoF service is in place, all re-allocations will be sent to them and they w
 
 Eligibility to be a RFM - Ring of Fire Members: Confirmed Peers, Clean accounts, at least 30 days with WIM, more than 5 dreams of different dates, dreams different amounts: Continual Investor.
 
-R:WALL of FIRE Extended Services | RING of FIRE Extended Services [WoFXS|RoFXS]
+S:WALL of FIRE Extended Services | RING of FIRE Extended Services [WoFXS|RoFXS]
 
 The speculative nature of a virtual DP2P can crash the whole system if it builds mistrust amoung members. This is evident when lots of orders are not settled. 
 To avoid this RoFXS is created to consult with these with an aim to create trust. Members who will offer this service will be paid 10% of the outstanding order amount. They will get a list of defaulters and call them on orders not settled.
+
+For example if a Peer got scared and cancelled settling an amount of R10000.00.  If a RoFXS officer consults with this peer and the peer changes his/her mind and pays the order:To Pay Members and Admin accounts, then the RoFXS is donated to R1000 for a successful service. This is so because now the other amount is available to settle DMDRs, CSDs, and FKDs. Only PM and Admin accounts will be donated to by defaulters. The defaulters account will be unblocked and their relevant dreams will be confirmed and will start growing.
 
 
 
