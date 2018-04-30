@@ -397,6 +397,17 @@ For example if a Peer got scared and cancelled settling an amount of R10000.00. 
 Who can be a RoFXS?
 This service is for all confirmed members only. Be a Faithful Disciple of WIM and convince scepticals that WIM is here to benefit many people.
 
+T: SALVATION DREAMS: 
+
+When defaulting Peers are blocked and if it happens that they are many, the unpaid orders are in fact lost donations and this will affect matured dream payments and other needed services. To save the situation, all members will be requested to willingly, freely, and knowingly donate a fixed reasonable amount by creating dreams called Salvation Dreams. These are normal dreams and will mature and be paid like all other dreams.
+
+This will raise the needed amount to cover matured dreams. 
+
+U: PREFERENTIAL MATURED DREAM DONATIONS:
+
+Members who are active, confirmed, who recruit a lot, offer services and who always donate to WIM via creating multiple dreams may will be given preferential treatment when it comes to various donations.
+
+This is to eliminate lazy Peers and to reward hard working members.
 
 
 
