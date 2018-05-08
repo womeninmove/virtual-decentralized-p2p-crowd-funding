@@ -409,8 +409,28 @@ Members who are active, confirmed, who recruit a lot, offer services and who alw
 
 This is to eliminate lazy Peers and to reward hard working members.
 
+V: DMDR CSD BOOSTED CASHOUT[DCBC]
+
+Problem: 
+
+As a community grows, some members donate very few dreams aimed at maturing with big returns. For example, they create say a R200 dream for 5 months and pay it. 
+
+Then sit and wait for it mature for R6400 without them recruiting at all. WIM has been paying these people their matured dreams this is straining the very few 3% who are recruiting. This is a fact which all members of a stockvel must appreciate because Growing Dreams To Maturity means getting new dreams created to fund the daily growing queue of maturing dreams.
+
+At least members should do either a continuous recruitment or a continuous dream creation or a continuous community service so that the Communal Benevolent Spirit keeps funds flowing to benefit all.
+
+Do not mistake a P2P Donor Donated Community to an investment coorperative where all funds are invested and get interests. Those funds are used normally to build rental offices and houses and in turn generate the interest members receive which is very small compared to P2P donations.
+
+Solution:
+
+Shaking up members and motivating them to be active can be done by introducing  dream maturity donations based on recruitment to confirmed members so we have a 97% active community rather than only 3% recruiters. This is known as DMDR CSD BOOSTED CASHOUT[DCBC].
+
+Many members are ego centric meaning they argue that they donated and therefore they should also be donated at all cost. This is the ideal situation we are all fighting for. However, decentralization strip out the ability to force donations the same way insurances force premium payments. The tool available now to be used is DCBC and is not the only one.
 
 
+
+
+ 
 [*All contributions to this are welcome]
 
 
