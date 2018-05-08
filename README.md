@@ -427,6 +427,20 @@ Shaking up members and motivating them to be active can be done by introducing  
 
 Many members are ego centric meaning they argue that they donated and therefore they should also be donated at all cost. This is the ideal situation we are all fighting for. However, decentralization strip out the ability to force donations the same way insurances force premium payments. The tool available now to be used is DCBC and is not the only one.
 
+How will it work?
+
+All members with matured dreams not maturing dreams, will have to race and recruit. All those they will find and are confirmed will fund their matured dreams by 40%. Let us say Peer A has a matured dream worthy R40000. Peers A Consults and registers 4 members who donate dreams amounts equivalent to say R26000. Peer A will get 10% from these for CSD cash payout and then get 40% of R26000 which is R10400 on top of the CSD R2600(x2 on Winter Double Bonus). The remaining 40% will be used for Fund Keeping [60% of the remaining 40%] and rest for admin operational costs to keeping community secure and healthy.
+
+Benefits:
+
+This will be fair to Confirmed Recruiters and since all dreams will still be paid as donations come members will be happy same as they wait for their annual interest in money invested in banks.
+
+Those who cannot recruit then they should create small continuous dreams or offer critical services like RoFXS, Pay Members, etc.
+
+Challenges:
+
+Members may not like this because it is coming at a time their dreams have matured and others have been already paid. The success of Salvation Week show that members understand that virtual community are dynamic. What should happen is listen and try to help all affected members rather than ignore and flush them out. All must also appreciate that every brick in a house is important and needs to be fairly treated.
+
 
 
 
