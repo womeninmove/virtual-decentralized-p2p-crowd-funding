@@ -409,7 +409,7 @@ Members who are active, confirmed, who recruit a lot, offer services and who alw
 
 This is to eliminate lazy Peers and to reward hard working members.
 
-V: DMDR CSD BOOSTED CASHOUT[DCBC]
+V: DMDR CSD BOOSTED CASHOUT[DCBC] & FKA CSD BOOSTED CASH[FCBC]
 
 Problem: 
 
@@ -429,13 +429,25 @@ Many members are ego centric meaning they argue that they donated and therefore 
 
 How will it work?
 
-All members with matured dreams not maturing dreams, will have to race and recruit. All those they will find and are confirmed will fund their matured dreams by 40%. Let us say Peer A has a matured dream worthy R40000. Peers A Consults and registers 4 members who donate dreams amounts equivalent to say R26000. Peer A will get 10% from these for CSD cash payout and then get 40% of R26000 which is R10400 on top of the CSD R2600(x2 on Winter Double Bonus). The remaining 40% will be used for Fund Keeping [60% of the remaining 40%] and rest for admin operational costs to keeping community secure and healthy.
+All members with matured dreams not maturing dreams, will have to race and recruit. All those they will find and are confirmed will fund their matured dreams by 40%. Let us say Peer A has a matured dream worthy R40000. Peer A Consults and registers 4 members who donate dreams amounts equivalent to say R26000. Peer A will get 10% from these for CSD cash payout and then get 40% of R26000 which is R10400 on top of the CSD R2600(x2 on Winter Double Bonus). The remaining 40% will be used for Fund Keeping [60% of the remaining 40%] and rest for admin operational costs to keeping community secure and healthy.
+
+Another Problem: What if the Peer has no matured dream?
+
+FKA CSD BOOSTED CASH[FCBC] is the option for those without matured dreams or those whose matured dreams are all paid up.  What is FKA CSD BOOSTED CASH[FCBC] and how does it work?
+
+FKA CSD BOOSTED CASH[FCBC] is a Fund Keeping Donation for those that have recruited. Peers will have their Down Liners dreams allocated to admin and Pay Members and these will in turn boost DL Fund Keeping Amount as follows: 
+
+All members will race and recruit. All those they will find and are confirmed will Fund Keeping Amount by 40%. Let us say Peer A has a dream worthy R5000. Peer A Consults and registers say 2 members who donate dreams amounts equivalent to say R3000. Peer A will get 10% from these for CSD cash payout and then get 40% of R3000 which is R1200 on top of the CSD R300(x2 on Winter Double Bonus). The remaining percentage will be used for admin operational costs, Pay Member Services and RoFXS services: to keeping community secure and healthy.
 
 Benefits:
 
-This will be fair to Confirmed Recruiters and since all dreams will still be paid as donations come members will be happy same as they wait for their annual interest in money invested in banks.
+This will be fair to Confirmed Recruiters. All other dreams will be paid as donations. Non recruiters or non Continual Donors will be have their matured dreams processed the normal way and can still get ZILAD against them.
 
-Those who cannot recruit then they should create small continuous dreams or offer critical services like RoFXS, Pay Members, etc.
+Those who cannot recruit then they should create small many dreams in different times or offer critical services like RoFXS, Pay Members, etc.
+
+This will also eliminate the biggest problem of Late Comer Big Loser [LCBL]. If someone joins after 10 months, he/she will not be disadvantage because his/her payments will be made immediately up to 60% and still have the remainder paid later.
+
+No more waiting for dream payments delayed by non recruiters. No more unfairness burdening 3% to recruit for all. The true principle of growing your dream will be implemented and realized.
 
 Challenges:
 
