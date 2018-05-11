@@ -453,6 +453,21 @@ Challenges:
 
 Members may not like this because it is coming at a time their dreams have matured and others have been already paid. The success of Salvation Week show that members understand that virtual community are dynamic. What should happen is listen and try to help all affected members rather than ignore and flush them out. All must also appreciate that every brick in a house is important and needs to be fairly treated.
 
+W: DMDR FKA CASHOUT VIA ADVERTISEMENTS[DFA]
+
+Problem: DCBC means Peers are to recruit and get their matured dreams or fund keeping paid out. But not everybody can recruit members to join. If you cannot recruit members to join WIM because the recruited are cynical then find companies or individuals with online purchasable products and services like Vodacom, MTN to come and advertise on our WIM platform and groups. These companies will be charged an affordable fee and have their products adversed on our community areas. 
+
+Stockvels similar to ours are not allowed to advertise in our communities because this is conflicting with our services and will disrupt and confuse our members.
+
+DFA Members will be Peers selected from WIM using our criteria to coordinate the company recruiters. Any one can apply to be a DFAM and if selected will earn 10% of every amount a company pays for advertising. 40% will be paid towards your dream maturing or fund keeping.
+
+X: DMDR ZERO PAID MEMBERS[DZPM]
+
+At any stockvel there will be zero paid members. WIM eliminates this by Fund Keeping Amounts FKA, but still there will be members whos  matured dreams have never been paid. Strategies to avoid this are needed because these Peers are the one who paid previous dreams. It is not fair that their dreams are not paid at all. This is a membership retention strategy. A list of these will be drawn and these will be paid and all will be notified and requested to cooperate and assist with this strategy.
+
+
+
+
 
 
 
