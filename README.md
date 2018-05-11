@@ -465,6 +465,8 @@ X: DMDR ZERO PAID MEMBERS[DZPM]
 
 At any stockvel there will be zero paid members. WIM eliminates this by Fund Keeping Amounts FKA, but still there will be members whos  matured dreams have never been paid. Strategies to avoid this are needed because these Peers are the one who paid previous dreams. It is not fair that their dreams are not paid at all. This is a membership retention strategy. A list of these will be drawn and these will be paid and all will be notified and requested to cooperate and assist with this strategy.
 
+Group Leaders and Up Liners have a duty to fight and ensure that all their Down Liners matured dreams receive payments. If no more dreams are created and no new members join then like Salvation Week, an effort from existing members must be done to eliminate DZPM.
+
 
 
 
