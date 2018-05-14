@@ -467,6 +467,20 @@ At any stockvel there will be zero paid members. WIM eliminates this by Fund Kee
 
 Group Leaders and Up Liners have a duty to fight and ensure that all their Down Liners matured dreams receive payments. If no more dreams are created and no new members join then like Salvation Week, an effort from existing members must be done to eliminate DZPM.
 
+Y: FREE REGISTRASTIONS CSD [FR CSD]
+
+Why is recruiting difficult now than before? Many people have been disappointed by many scams that reaped them their money with false promises. This cynicism will not go away. It gets worse when messages of unpaid dreams or partial dream payments are exchanged even if there is a good explanation for delays.
+
+There is a way around this problem on those people interested but sceptical. This is free registrations with no mandate to create dreams. One might ask what would be the reason to join. It is for the following benefits:
+
+- a new member is able to get a link from the green button. With this link he/she will be able to refer and get paid even if he/she did not donate at all. 
+- a new potential member is able to get updates from WIM and will see how stable the community is.
+- this will eliminate membership duration required when the member wants to earn more from WIM. Normally WIM requires that a member be at least 30 days with the community to be a Pay Member.
+- WIM will have a comprehensive database and will earn income via advertisements. Earned funds will pay DMDRs, CSDs, FKAs etc.
+- Up Liners who manage to register many members [FRs] will have a FR CSD Bonus paid into their accounts on condition that these are genuine new members. This will be test via sms, emails and account quiz to determine if the account belongs to a new member of WIM.
+
+
+
 
 
 
