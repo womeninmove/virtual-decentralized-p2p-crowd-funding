@@ -487,6 +487,14 @@ There is a way around this problem on those people interested but sceptical. Thi
 - WIM will have a comprehensive database and will earn income via advertisements. Earned funds will pay DMDRs, CSDs, FKAs etc.
 - Up Liners who manage to register many members [FRs] will have a FR CSD Bonus paid into their accounts on condition that these are genuine new members. This will be test via sms, emails and account quiz to determine if the account belongs to a new member of WIM.
 
+Z : CONTINUOUS DONOR MEMBERS [CDM] AND EFFECTIVE RECRUITER MEMBERS [ERM]
+
+Peers who choose not to recruit for good reasons and opt for creating dreams contunuously are very key to the cash flow of donations. These are not different to the Peers we call Effective Recruiters because both CDM and ERM contribute to the growth of the community.
+
+If a Peer is a CDM he/she will be treated the same. From time to time the minimum dreams and total amount for CDM will be revised just like the minimum number of recruits needed to qualify for ERM status.
+
+
+
 
 
 
