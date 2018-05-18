@@ -326,7 +326,7 @@ Peers should be patient, good listeners, polite, positive, confident, factual th
 
 The reason is discrediting other Peers publicly may  prevent genuine pending orders from being fulfilled.
 
-O: DREAMS MATURITY DONATION
+O: DREAM MATURITY DONATION RECEIVED [DMDR]
 
 Matured dreams have a target maturity value. Peers undertake willingly, freely, and knowingly to fulfill the maturity value because every confirmed Peer has at least one dream to achieve.
 
