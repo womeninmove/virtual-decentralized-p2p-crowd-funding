@@ -469,6 +469,18 @@ Stockvels similar to ours are not allowed to advertise in our communities becaus
 
 DFCA Members will be Peers selected from WIM using our criteria to coordinate the company recruiters. Any one can apply to be a DFAM and if selected will earn 10% of every amount a company pays for advertising. 40% will be paid towards your dream maturing or fund keeping.
 
+Most companies with products and services are looking for communities to introduce their products. Our community is one platform with many members - 5000.
+We want all matured genuine dreams of all our members paid. This will increase trust in WIM.
+
+How to do it?
+
+1. Find advertisers
+2. Admin will approve content to be advertised
+3. Members will be informed of approved companies or individuals and products
+4. The recruiter will then join that company/individual under his/her link, login to that company/individual and create a R1000 dream. An order will be produced for that company to pay. When that order is paid and confirmed, then the content of the company will be published on our communities.
+The recruiter gets paid the same way via DCBC for her matured dream
+That company's dream will not be a growing dream but a DFCA dream to facilitate payment of recruiter dreams.
+
 X: DMDR ZERO PAID MEMBERS[DZPM]
 
 At any stockvel there will be zero paid members. WIM eliminates this by Fund Keeping Amounts FKA, but still there will be members whos  matured dreams have never been paid. Strategies to avoid this are needed because these Peers are the one who paid previous dreams. It is not fair that their dreams are not paid at all. This is a membership retention strategy. A list of these will be drawn and these will be paid and all will be notified and requested to cooperate and assist with this strategy.
