@@ -461,13 +461,13 @@ recruit, this means they are not going to be paid n they are gonna comeback
 to the person who recruited them n demand refunds,this can resultingin law
 suits.
 
-W: DMDR FKA CASHOUT VIA ADVERTISEMENTS[DFA]
+W: DMDR FKA CASHOUT via ADVERTISEMENTS[DFCA]
 
 Problem: DCBC means Peers are to recruit and get their matured dreams or fund keeping paid out. But not everybody can recruit members to join. If you cannot recruit members to join WIM because the recruited are cynical then find companies or individuals with online purchasable products and services like Vodacom, MTN to come and advertise on our WIM platform and groups. These companies will be charged an affordable fee and have their products adversed on our community areas. 
 
 Stockvels similar to ours are not allowed to advertise in our communities because this is conflicting with our services and will disrupt and confuse our members.
 
-DFA Members will be Peers selected from WIM using our criteria to coordinate the company recruiters. Any one can apply to be a DFAM and if selected will earn 10% of every amount a company pays for advertising. 40% will be paid towards your dream maturing or fund keeping.
+DFCA Members will be Peers selected from WIM using our criteria to coordinate the company recruiters. Any one can apply to be a DFAM and if selected will earn 10% of every amount a company pays for advertising. 40% will be paid towards your dream maturing or fund keeping.
 
 X: DMDR ZERO PAID MEMBERS[DZPM]
 
