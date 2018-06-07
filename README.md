@@ -505,7 +505,20 @@ Peers who choose not to recruit for good reasons and opt for creating dreams con
 
 If a Peer is a CDM he/she will be treated the same. From time to time the minimum dreams and total amount for CDM will be revised just like the minimum number of recruits needed to qualify for ERM status.
 
+AA : Community Contributions 
 
+Excellent Ideas on Consulting Services:
+
+1. I don't start by recruiting my relatives and friends and people in my cycle because they won't take me serious, they will tell me yes I'll join and you'll spend mist of your time chasing after them,its a no no for me period.
+2. Save them for later when you're successful, they believe when they see you succeed and they are the ones who will come to you, trust  me I know what I'm talking about.
+3. Learn the market plan first,know your target of audience,understand WIM 100%,and start approaching ppl,remember this is a business you, build ur network.
+4. Don't be greedy by rushing to get paid, build ur team first because your team will become what you are, be the down liner you want to have I'm your team.
+5. When you recruit someone and they say they'll get back to you,stop calling them everyday you'll sound desperate.
+6. Be professional speak like a business owner not like a person who wants to pass.
+7. Brand yourself(use WIM brands),people want to do business with business owners who take pride about their business.
+8. Take care of your down liners, you are nothing without them,motivate them,groom,them,help them because having a demoralized team is as good as having no team at all. 
+
+By Princess Mnomiya [06-06-2018]
 
 
 
