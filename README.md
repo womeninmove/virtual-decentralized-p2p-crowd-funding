@@ -535,8 +535,16 @@ Disadvantages:
 
 1. Because they not tested and owners are anonymous no one know how far they ever go or they will ever pay? It is all speculation.
 2. There is highly level of scamming and fraud and extremely high risk to members since the platform is new and remember most of the are run by old horses who have learnt from the previous ones how to make the most money from these in an anonymous way. You can judge by their website that it is a true leap in the dark.
+3. Late comers are losers.
+4. No transparency and there is complete control by Admin and Founders
+5. There is no white paper[transparancy] and there is no way of auditing operations to eliminate or minimize scamming or unfairness.
 
-DMDR Hot Spot will take all advantages of new platforms and leave disadvantages. It will not burden new members with a liability to donate to past matured dreams. DHS will introduce the concept of 'investment' via risk taking. This will be WIM Gamblers' Table with calculated risk with instant payments.
+DMDR Hot Spot will take all advantages of new platforms and leave out all disadvantages and extend the current best principles of WIM. It will not milk new comers to feed old members but will build a fair spot where all members have equal chances of winning and losing. It will complement WIM best practices and will not rely on past activities to determine the future.
+
+How will it address past unpaid matured dreams or dreams maturing not paid? It will have nothing to do with past dreams as these will be handled by WIM DCBC and the current activities. It will have the speed of DCBC payments spiced with risk taking. It will scale infinitum. 
+
+Will blocked members and members without DMDRs be allowed to profit from DMDR Hot Spot? This is not a WIM Hot Spot but a WIM DMDR Hot Spot. How are the two different? DMDR Hot Spot will give the donated more credits and more money compared to members who have no matured dreams and are new. This requires all members to now start creating DCBC dreams to pave way for more credits on DMDR Hot Spot.
+
 
 
 
