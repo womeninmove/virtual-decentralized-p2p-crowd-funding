@@ -521,6 +521,24 @@ Excellent Ideas on Consulting Services:
 By Princess Mnomiya [06-06-2018]
 
 
+AB : DMDR Hot Spot [DHS]
+
+Why are new platforms liked by many people?
+
+1. They operate on first come first serve, so those who register on the first day of the platform has a high probility of getting his/her first payment within the first period.
+2. New Platforms do not have long payment queues for matured dreams.
+3. Smart members rig the system by creating many dreams so as to optimize their chances of getting donated to later. This makes many later comers liable to donate to few big matured dreams.
+4. Many people want competition and this gives them a market to spread what they term 'investments'.
+5. Of course, many flock to new ones to recruit and be leaders so that they earn from bonuses and fund keeping.
+
+Disadvantages:
+
+1. Because they not tested and owners are anonymous no one know how far they ever go or they will ever pay? It is all speculation.
+2. There is highly level of scamming and fraud and extremely high risk to members since the platform is new and remember most of the are run by old horses who have learnt from the previous ones how to make the most money from these in an anonymous way. You can judge by their website that it is a true leap in the dark.
+
+DMDR Hot Spot will take all advantages of new platforms and leave disadvantages. It will not burden new members with a liability to donate to past matured dreams. DHS will introduce the concept of 'investment' via risk taking. This will be WIM Gamblers' Table with calculated risk with instant payments.
+
+
 
 
 
