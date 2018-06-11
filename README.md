@@ -545,8 +545,20 @@ How will it address past unpaid matured dreams or dreams maturing not paid? It w
 
 Will blocked members and members without DMDRs be allowed to profit from DMDR Hot Spot? This is not a WIM Hot Spot but a WIM DMDR Hot Spot. How are the two different? DMDR Hot Spot will give the donated more credits and more money compared to members who have no matured dreams and are new. This requires all members to now start creating DCBC dreams to pave way for more credits on DMDR Hot Spot.
 
+Advantages of a WD Hot Spot:
 
+1. It will operate on a new clean slate within WIM
+2. Anyone, anywhere and anytime will have equal opportunities and 67% chance to be donated to within 48 hours :- 25% guaranteed ROI
 
+WIM Die Hardsadmin
+3. Quick and reliable 24/7 payments with Zero Dololos and Fororos
+4. Distributed Fund Keeping with Zero Dololos and Fororos
+5. No Admin/Management payments allocations: No queues and no waiting in endless queues because it will be automated.
+6. It will scale without degradation because it has no history. this means past Winners are not Future winners and Past Losers are not Future Losers
+7. It will be built on transparent rules and will be by fare better than pure gambling, lotto, sport batting any stockvel in existence
+8. Zero scamming and no fraud because everyone will have all the information needed
+9. All those with DMDRs pending payments and who play on the hot spot with clean accounts will have more credits and chances to benefit because WIM believes in sharing wealth
+10. All running public WD Hot Spot Groups will be running on regulated social media chat rooms to eliminate chances of other platforms crashing WIM and recruiting our members.
 
 
 
