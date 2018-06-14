@@ -558,6 +558,29 @@ Advantages of a WD Hot Spot:
 9. All those with DMDRs pending payments and who play on the hot spot with clean accounts will have more credits and chances to benefit because WIM believes in sharing wealth.
 10. All running public WD Hot Spot Groups will be running on regulated social media chat rooms to eliminate chances of other platforms members crashing WIM and recruiting our members.
 
+AC : HOW TO ELIMINATE UNTRUSTWORTHY PEERS
+
+Peers who when donated to run away from their responsibility to donate to others are often call Fororos and Dololos. They are driven by strong feelings of 'get rich fast and get out before you lose'.
+
+To counterattack this problem the Virtual Distributed P2P must make everyone a Down Liner and also make everyone an Up Liner. Peer = DL + UP. One must be both not one of the two or none of the two. This will bring balanced payments and fairness and will also eliminate a few Up Liners controlling the majority Down Liners.
+
+A true Peer is a community member who does not wait to be served but join others in solving community problems. Learn and master the process of networking. Wise advice follows below
+"
+Successful Network Marketing is not about pushing , convincing or selling a dream :no_good:♀
+
+:- It's about sharing your message daily and seeking people who connect
+
+:- It's about looking for those who are looking for you 
+
+:- It's about looking for a few "pearls" in a sea of oysters
+
+Remember it takes a few committed and likeminded people to build a massive business 
+
+Filter, sift and sort - look for the pearls - and don't get emotionally attached to the outcomes. :information_desk_person:♀
+
+Fall in love with the process. Be consistent. If you do, the right ones will follow
+"
+By Princess Mnomiya [14-06-2018]
 
 
 
