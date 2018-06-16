@@ -592,7 +592,7 @@ By Princess Mnomiya [14-06-2018]
 
 
  
-[*All contributions to this are welcome]
+[*All contributions to this are welcome. This document can be ammended anytime and new content is binding to all members]
 
 
 
