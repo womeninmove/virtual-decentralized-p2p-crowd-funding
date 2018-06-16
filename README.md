@@ -212,7 +212,7 @@ It will always be hard to confront various organization for transparancy with th
 
 Recruitment is promoted via 10% earnings and every one is happy with this and so why not be happy with 20 - 25% of monthly transactions to look after those system developers. Without system and its technical staff the Virtual Decentralized P2P will not work. This therefore will transform VD P2P CF to a Transparent platform.
 
-J: PEER SECURITY, ANONYMITY AND INTEGRITY:
+J: PEER SECURITY, ANONYMITY AND INTEGRITY AND REFUNDS:
 
 The crypto world employ computer science tools to hash identities and thus achieve anonymity of members because by being public Peers can be hijacked or robbed. Virtual Decentralized P2P members are adviced to create different names best names that are not on social media, create different emails.
 
@@ -229,6 +229,8 @@ Take it the other way, suppose a Peer who started with R200 ends up with R18000.
 Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers. Play the game to accept either a win or a lose.
 
 If a Peer has already been donated to, then the Peer cannot claim full amount he/she donated. Whatever he/she donated must be subtracted from his/her total donations to community and whatever remains the Peer must be donated back half the amount. This is because of administrative costs and inconvenience and complecations of P2P funding. This is meant to also deter members playing around with community members and trying to take advantage of the community and system. This does not apply to genuinely proven cases where the member was erroneously allocated or underpaid.
+
+Admin must investigate thoroughly the Peer requesting for refund to avoid double payments and to avoid scammers. It should be completed within 2 weeks so that anyone with a case again a leaving Peer has enough time to bring his/her case.
 
 However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
 
