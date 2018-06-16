@@ -117,7 +117,7 @@ H: INFLUENCERS AND POWERS:
 Normally recruiters, platform creators, big investors or risk takers, originators have a degree of influence and
 power but do not have an ability to control every body because power and finance is decentralized.
 
-I: FEATURES:
+I 1): FEATURES:
 
 i) 	Platform - website for virtual operations.
 ii) Participants - Peers to donate and be donated to.
@@ -134,7 +134,7 @@ e) 	Financial Services[FK] - These are much needed funds from Peers donated by F
 	dreams. This also includes escrow[ES] services where Fund Keepers are not available and not reliable.
 f) 	Other Service Providers [OSP]- These could be counselling[CoS], legal[LeS], spiritual[SpS], educational service[EdS] providers
 
-J: RISKS AND DISADVANTAGES:
+I 2): RISKS AND DISADVANTAGES:
 
 This type of funding is similar to gambling. A Participant is not donated to unless and until 
 he/she has donated to the community or to a Peer and has been confirmed. The donation made
@@ -150,7 +150,7 @@ The principle of collecting money from many participants to fund a few has been 
 that these schemes have evolved to socio-economic models of donor-donated rather that 
 investments schemes with ROI.
 
-K: TAX EVASION:
+I 3): TAX EVASION:
 
 The Virtual Decentralized P2P does not evade tax. It is not a company with income. Participants in their own 
 capacity need to solve tax issues as they do with FICA, Know Your Customer in their Peer to Peer financial 
@@ -163,7 +163,7 @@ to an entity but to a movement to help others with needed funds quickly.
 However, Peers should be educated and helped to follow laws and taxes as all other entities of state including 
 churches and NPOs.
 
-L: SHORT LEAVED SCHEMES:
+I 4): SHORT LEAVED SCHEMES:
 
 Pyramid Schemes and Scam website have been known to be short leaved and to close when there is high demand for 
 payouts. Virtual Decentralized P2P Crowd Funding is not money focused but addresses a social key problem and then 
@@ -176,7 +176,7 @@ Embracing the spiritual and social virtues of giving - donating as well
 as the economic need to bless other people and see them succeed financial, WIM and its philosophy not only 
 breed millionaires but millionaires out of socially and economically disadvantaged groups.
 
-M: HOW WILL THIS BE POSSIBLE:
+I 5): HOW WILL THIS BE POSSIBLE:
 
 Virtual Decentralized P2P uses cycles and phases, round robin donations, advanced Fund Keeping and advanced payouts to minimized bottle necks
 
@@ -189,12 +189,12 @@ financial schemes.
 All existing stockvels can double their savings by also enlisting in this scheme to be donated to. This will also 
 boost the Virtual Decentralized P2P Crowd Fund Venture.
 
-N: SCOPE OF DONATION:
+I 6): SCOPE OF DONATION:
 
 Financial donations are the base but not the only essential donations. Other donations badly needed are in form of 
 services: Financial Advice, Counselling, Legal, Spiritual, Business Networking, Educational, Marketing, ICT, etc.
 
-I: REMUNERATIONS AND SALARIES:
+I 7): REMUNERATIONS AND SALARIES:
 
 Since by its nature the P2P is not centralized and has no one central pool to keep donations. All costs for  services and products are met via donations. Not via salaries. It is common and a bad practise for origionators, leaders, or controllers to pay themselves millions underground without objectively qualifying that and worse hiding it form other Peers. 
 
@@ -227,6 +227,8 @@ Platform staff, support and other service providers like marketing or CS have no
 Take it the other way, suppose a Peer who started with R200 ends up with R18000. A staff member confronts the Peer and claims a significant share in R18000 because he/she provided services and support to make Peer win. This will not work because it violates rules of the community. The same way, no Peer should request for refund or be refunded on perceived loss.
 
 Another good reason to respect transactions and never ask for refunds: A gets paid by B who gets paid by C who also gets paid by D, E and F. These transactions are a network and not easy to reverse. Therefore no refunds. No follow up on Peers. No threats to Peers. Play the game to accept either a win or a lose.
+
+If a Peer has already been donated to, then the Peer cannot claim full amount he/she donated. Whatever he/she donated must be subtracted from his/her total donations to community and whatever remains the Peer must be donated back half the amount. This is because of administrative costs and inconvenience and complecations of P2P funding. This is meant to also deter members playing around with community members and trying to take advantage of the community and system. This does not apply to genuinely proven cases where the member was erroneously allocated or underpaid.
 
 However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
 
