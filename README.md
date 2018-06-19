@@ -586,9 +586,55 @@ Fall in love with the process. Be consistent. If you do, the right ones will fol
 "
 By Princess Mnomiya [14-06-2018]
 
+AD : RULES ALL MUST OBEY
 
+Rules and Warning Age of participation is 18 years and older. NO SCAMMERS, FRAUDSTERS!
 
+You will not take information of members be it their names and accounts and publish on social media. All affected individuals
+defamed on social media have full power to reclaim their tarnished digital identity via legal means.
 
+All information you will get within this platform is private and is solely for participation within this platform. Your private
+information and that of participants must be kept private.
+
+Any criminal, fraud, scam, insults, discrimination whatsoever will not be tolerated at all. Respect all and you will be respected too. Any dispute or disagreement, loss of privileges must be resolved in a win-win situation without affecting other participant.
+
+You are voluntarily, willingly and knowingly joining a stockvel that will not guarantee you anything but fair play. Resolve dispute in a professional way. YOU and EACH one of WIM must be respected.
+
+ONLY ONE account per member – multiple accounts in order to gain from referral bonus is not allowed.
+
+If a member is found to have more than one account that member will be Blocked and will lose all their money in the system.
+Members cannot share One bank account per member and bank account must be in the member's name.
+
+More than one bank account can be added so long they all belong to that member, and are in that member's name.
+
+Contribution must be paid with 72hrs of the order being received and proof of payment attached or else the member's account
+will be BLOCKED .
+
+Fake participants will be BLOCKED, attaching of fake proof of payment will result in that member's account blocked forever.
+We ask all members to exercise honesty and kindness in our community, any mischief or unethical behavior will NOT BE
+TOLERATED.
+
+Financial transactions and FICA etc are carried out by Participants as INDIVIDUALS because this is a decentralized stockvel.
+WIM does not have a central bank to put all money and share because that is against Peer to Peer and decentralization
+principles.
+
+WIM is developed and maintained by IT staff/company who are participants and if these are not donated to the whole virtual
+stockvel will collapse.
+
+Lastly, all participants will not be donated to due to lack of new membership or economic decline MUST be helped by all who
+benefited by being made front liners of the WIM next cycle launch.
+
+Donations rates can be changed up or down without consultation to ensure fair distribution of benefits. You may be asked to
+donate some of your benefits to support disadvantaged women in parts of the world. Women are our mothers – Let us love
+them now.
+
+You will honor and respect women, children and the weak.
+
+Women who contributed to this project will be helped and honored at all times Women In Move lives.
+
+Women And Men In Move (WMIM) will be created as and when seen fit and also will help to the disadvantaged of all races, color, nationality and gender.
+
+Members of WIM are of different backgrounds and english will be the medium of communication unless the community votes for another language. Since members are of different backgrounds, WIM must accommodate all people from different backgrounds. Avoid in your actions, words, conduct all forms of discriminations.
 
 
  
