@@ -549,6 +549,58 @@ How will it address past unpaid matured dreams or dreams maturing not paid? It w
 
 Will blocked members and members without DMDRs be allowed to profit from DMDR Hot Spot? This is not a WIM Hot Spot but a WIM DMDR Hot Spot. How are the two different? DMDR Hot Spot will give the donated more credits and more money compared to members who have no matured dreams and are new. This requires all members to now start creating DCBC dreams to pave way for more credits on DMDR Hot Spot.
 
+17 June 2018 Letter to All WIM Losers given credits:
+
+Good day WIM Member 
+                
+ Accept our apology for the total loss of R### donations you made as per our
+calculations. We looked at how much you put in and what you got out of wim. You
+Donor Loss Index is ###%.
+                
+ The total donations you made are Rxxx and total received confirmed donations
+received are Rxxx. Basically you playing at WIM first half means you lost Rxxx.
+                
+ This was caused by (more than 995) unpaid orders, loss of many members to other
+Stockvels due to false speculations that WIM  crashed. Some members are still with
+WIM but are very unhappy because their matured dreams have not been donated to.
+                
+ Everybody joining these online stockvels takes a risk and we advise all to play
+with money one can afford to lose. All members willingly, knowingly and freely join
+to try out theur luck. If one wins he/she is happy but if he/she loses then he/she
+becames very upset.
+                
+ Here at WIM we know that and we are doing something about your loss. Help us help you.
+                
+ We wish to see matured dreams donated to and we have put in place DCBC: You will
+need to recruit and get your matured dreams donated to via your DL donations. This
+will run forever because it is fair.
+                
+ Good news for you: WIM DMDR Hot Spot will be launched soon. If you are still an
+active WIM member then we give you free credits equal to R### you lost in the
+first half. 1 credit = R200. This means your total credits are ###.
+                
+ You will play at WD Hot Spot free using these credits and if you win you will
+receive instant cash. The rest of the members will have to donate at least R200 or
+more to play. Your credits will be valid for 30 days from the day Hot Spot starts.
+                
+ Hot Spot is explained in the white paper. The free credits for Hot Spot are the
+only way we have to compensate all members of WIM who never recovered their initial
+donations during Jan-June 2018. These are not payment for matured dreams, you will
+have to recruit to pay for your matured 
+                dreams via DCBC. Now that we are giving you free credits that will give you
+an advantage on the next coming Hot Spot, we need you to be positive, be
+active in groups i.e. when donated to send positive testimonies to groups. 
+                
+ Never publish negative information on the groups. If you do so then we will cancel
+all credits we have given you. These credits are a way to help you recover your
+lost R###.
+
+*CHS Admin reserves the right to cancel credits for members they feel are or have acted against the progress of Cash Hot Spot and/or WIM.
+*### - refers to relevant figures derived from calculations.
+                
+ Kind regards WIM Admin[WIM is an honest decentralized P2P community created to
+eliminate poverty.]
+
 Advantages of a WD Hot Spot:
 
 1. It will operate on a new clean slate within WIM
