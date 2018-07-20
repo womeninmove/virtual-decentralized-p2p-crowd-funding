@@ -415,6 +415,8 @@ This is to eliminate lazy Peers and to reward hard working members.
 
 V: DMDR CSD BOOSTED CASHOUT[DCBC] & FKA CSD BOOSTED CASH[FCBC]
 
+[Please note, as of 21st May 2018 WIM System was upgraded to pay Matured Dreams(DMDR/FKA/CSD) via DCBC i.e. Recruit and get paid 60% of DL dream amounts. This is automated. Check this on the White Paper.]
+
 Problem: 
 
 As a community grows, some members donate very few dreams aimed at maturing with big returns. For example, they create say a R200 dream for 5 months and pay it. 
