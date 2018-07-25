@@ -750,11 +750,19 @@ Consolation Dreams will be created during a period called Consolation Week displ
 
 After Consolation Service process WIM will enter Solidarity Process.
 
-SOLIDARITY DREAMS
+SOLIDARITY DREAMS: [150% ROI]
 
 Solidarity means unity. WIM is yearning for unity of all her children. This unity is important because it will make more disadvantaged women benefit from a strong united community created with a purpose to eliminate poverty and advance women in the world.
 
-A solidarity period will be created and run. All members will be requested to create Solidarity Dreams
+A solidarity period will be created and run. All members will be requested to create Solidarity Dreams. These will be dreams by members who want to see WIM a global community. How this will be done and how it will work, this will be explained later.
+
+REJUVENATION DREAMS [175% ROI]:
+
+Rejuvenation means revival, renewal. All members of WIM will have to renew their commitment to expanding WIM internationally and all best practices of WIM will be renewed and rebirth of new grand investment plans, ideas will be ushered through ReJuvenation Dreams which will break the record by donating to members 175% ROI! Imagine donating R200 and you inturn get donated to R550! That is 175% ROI.
+
+This is will be possible through a strict donor donated process, invest re-invest mandatory scheme publicly accepted by many WIM members.
+
+Remember in the past people laughed at 25%, 50%, 75% and 100% compounded ROI but today we know many have been paid through these and so the game will continue with new dimensions at renaissance.
 
 
 
