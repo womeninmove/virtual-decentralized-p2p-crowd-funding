@@ -690,6 +690,75 @@ Women And Men In Move (WMIM) will be created as and when seen fit and also will 
 
 Members of WIM are of different backgrounds and english will be the medium of communication unless the community votes for another language. Since members are of different backgrounds, WIM must accommodate all people from different backgrounds. Avoid in your actions, words, conduct all forms of discriminations.
 
+AE: CONSOLATION, SOLIDARITY, REVIVAL [CSR]
+
+Problem: 
+
+1.
+In P2P world many members face losses of huge amounts because of many reasons: they do not use money they can afford to lose, they do not have all information about the platform they are joining because of either the information is purposefully hidden to new comers or the information in on website but new comers do not bother to take time to read and understand it.
+
+WIM has avoided these by being transparent via this white paper, by having many communication channels with members like chat, emails, groups etc and by having Consulting Officers regulary trained on handling members with fairness and being honest at all times.
+
+2.
+Many WIM members are scattered all over the net, in different platforms trying their financial fortunes because they believed or where made to believe WIM is another scam or bad place to be at by reckless recruiters. The fact is WIM by being transparent and consistent and by being committed to building a true long lasting global P2P community, it is here to stay.
+
+3.
+Our community went through eratic disintegration of wim operations such as our groups stormed by recruiters from other platforms, members not paying orders, leaving the community for 'greener pastures', dissatisfaction with certain practices seen as not beneficial etc. This phase call it negation [anti-thesis] because it negated the origional state our P2P operations.
+
+WIM proudly presents to all of you 3 solutions: 
+a) Consolidation Service
+b) Solidarity Service
+c) Rejuvenation Service
+
+What is this again?
+
+Simple put it means WIM will be upgraded to allow Peers to create Consolation Dreams which will generate funds to console any person who lost money in any previous stockvel or any situation: be it in MMM, MLC, MLN whatever.
+
+How will this work?
+
+Any bereaved member is free to post his/her case in any of WIM groups asking for Consolation and also posts his/her true WIM account cell. Members will read his/her story and those that believe in it will then take the cell and go login in to WIM and create Consolidation Dreams to comfort that Peer.
+
+Then what will happen when a Consolation Dream is created?
+An order to Escrew Funds will be created. The Peer will be given Pay Members[These are trusted Peers who keeps funds temporarily and actually pay the relevant donated Peer] account details, pay the order and PM will pay the bereaved Peer being donated to.
+20% of the Amount will pay admin, 5% will pay PM, 5% will pay Recruiter, [These payments are for platform usage, system costs, suppport and PM service fees] and the bereaved Peer will receive 70%.
+
+Let us look at an example: John is a Bereaved Peer who lost R100 000 in XYZ stockvel and post an advert in WIM groups which says"Guys help me recover from my loss, I lost R100 000 when I was playing at XYZ stockvel. Please donate anything to me and I also will donated to others later. My cell at WIM is +27 45 7854".
+
+Then Mary sympathises and get John's cell and goes to WIM, logins and creates a Consolation Dream R5000, for John and enter John's cell number when asked by the system.
+
+Mary gets an order to pay Greg who is WIM trusted PM R5000. Greg gets an order to pay WIM Admin 
+20% of R5000 = R1000, PM - 5% of R5000 = R250, Upliner - CSD 5% of R5000 = R250 and the Bereaved Peer will get R3500.
+
+What if John is dishonest and is a scammer? He actually never lost anything?
+- WIM members claims can be verified through WIM achieved data.
+- Claims by Peers who were never WIM members can be backed up by their upliners, witnesses, friends, relatives and it will be up to the group members to post counter claims to help true donors to make decisions. Remember all donors in the world have these risks. Giving money, food, cloths to street beggers has risk which is those can be scammers wearing beggars clothes. The bereaved will have to provide enough facts to potential donors so that they get helped.
+
+Dreams of Consolers  will be made voluntarily, freely, and there is no guarantee that they will be reimbursed at maturity. They will mature at a value of 125%. This means if one created a R5000 Consolidation Dream his/her maturity dream value will be  
+R11250 and will be donated to by WIM community if there is money or if there are donors. If there are no funds availaible then the owner of Consoler Dream will be advertised in groups so that new donors donate to her/him.
+
+This is a true transparent P2P venture/undertaking and no one must join if you:
+- do not understand, 
+- are always emotional when you lose funds, 
+- are a minor less than 18 years, 
+- are tempted to use funds more that what you can afford to lose
+- will blame anyone be it admin, be it pay mebers, be if support etc for your loss
+- will ask for a refund - The Consolidation Dreams have no refund!
+- will try to bribe admin/pay members/support/upliners/group leaders of WIM to give you preferential treatment or advantage or the like. This is unfair to those who have no access to admin/pay members/support/upliners/group leaders. Actually calling these will be banned or recorded to prevent corruption.
+- will request donation on behalf of someone like grannies[WIM must find a safe way to help disadvantaged women like grannies get donated to: WIM must help disadvantage women: mothers, sisters, grannies, disabled etc]. Doing this for others has created many scams.
+
+Consolation Dreams will be created during a period called Consolation Week displayed on the websites and groups of WIM.
+
+After Consolation Service process WIM will enter Solidarity Process.
+
+SOLIDARITY DREAMS
+
+Solidarity means unity. WIM is yearning for unity of all her children. This unity is important because it will make more disadvantaged women benefit from a strong united community created with a purpose to eliminate poverty and advance women in the world.
+
+A solidarity period will be created and run. All members will be requested to create Solidarity Dreams
+
+
+
+
 
  
 [*All contributions to this are welcome. This document can be ammended anytime and new content is binding to all members]
