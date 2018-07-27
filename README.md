@@ -639,7 +639,13 @@ Cash Hot Spot has gone over test and is working very well. It is WIM's fastest, 
 
 Now Cash Hot Spot is running with $ and R because we want any one anywhere to try his/her fortune. To use Cash Hot Spot is very easy: create a paypal.me account, link it to your cards in which ever country you are, send money money to Peer as per Cash Hot Spot CHS order. That's it. I have tried it, it works like magic.
 
-Now those interested in funding from a legit community: try 1. Consolation Dreams 2. DCBC 3. Cash Hot Spot
+Now those interested in funding from a legit community: try 
+
+1. Consolation Dreams 
+
+2. DCBC 
+
+3. Cash Hot Spot
  
 All WIM Virtual P2P investment services use a Pay Master/Pay Member/Escrew Pay Member system where trusted Peers hold funds for you and immediately pay you when your money is due. Because the system is automated and stable this makes WIM one of the most reliable, secure and big community in existence. Those who lost money at WIM have been given credits equal to their loss. These credits will be used at Cash Hot Spot or cashed there. This makes WIM a funding ground where investors or fortune seekers play without fear of losing their funds.
 
