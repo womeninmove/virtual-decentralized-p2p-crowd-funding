@@ -627,4 +627,30 @@ This is will be possible through a strict donor donated process, invest re-inves
 
 Remember in the past people laughed at 25%, 50%, 75% and 100% compounded ROI but today we know many have been paid through these and so the game will continue with new dimensions at renaissance.
 
+[Extract from Groups]
+
+Consolation Dreams have created by request after reading very sad stories of losses from closed platforms, if you do not understand it do not worry because those that will benefit from it will use it.
+
+Consolation Dreams supplement DCBC which is already running and is stable.
+
+With DCBC no one will ever be robbed and it is fair.  It will run forever because it empowers all members to confidently make money without questions, make big money and make it forever. If you do not want DCBC but want just to PH then we got you covered with Consolation Dreams.
+
+Cash Hot Spot has gone over test and is working very well. It is WIM's fastest, fairest and P2P donation system which has guaranteed wim for 66% members who enter draws.
+
+Now Cash Hot Spot is running with $ and R because we want any one anywhere to try his/her fortune. To use Cash Hot Spot is very easy: create a paypal.me account, link it to your cards in which ever country you are, send money money to Peer as per Cash Hot Spot CHS order. That's it. I have tried it, it works like magic.
+
+Now those interested in funding from a legit community: try 1. Consolation Dreams 2. DCBC 3. Cash Hot Spot
+ 
+All WIM Virtual P2P investment services use a Pay Master/Pay Member/Escrew Pay Member system where trusted Peers hold funds for you and immediately pay you when your money is due. Because the system is automated and stable this makes WIM one of the most reliable, secure and big community in existence. Those who lost money at WIM have been given credits equal to their loss. These credits will be used at Cash Hot Spot or cashed there. This makes WIM a funding ground where investors or fortune seekers play without fear of losing their funds.
+
+Next improvements for WIM:
+
+1. Multiple Draws Extreme Cash Hot Spot[MDECHS]. What is this??? This is the improved Cash Hot Spot that makes you run 4 draws from only $15[R200] and for each win 4 x your draw amount. Unlike now with $15 you only run 1 draw and win 28% instantly.
+
+2. WIM Cryptocurrency/Token that will run on Etherium Network[https://www.ethereum.org/token] or something similar.
+
+Why? Because we want WIM to be independent and reach anyone anywhere in the world, accurately and quickly. Plus we want to empower ourselves in this global P2P competition.
+
+3.  Fund Routing and Pay Master decentralization and upgrades to big P2P Financial Community Organs.
+
 [*All contributions to this are welcome. This document can be ammended anytime and new content is binding to all members]
