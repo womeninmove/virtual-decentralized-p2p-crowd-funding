@@ -163,6 +163,10 @@ Another good reason to respect transactions and never ask for refunds: A gets pa
 
 If a Peer has already been donated to, then the Peer cannot claim full amount he/she donated. Whatever he/she donated must be subtracted from his/her total donations to community and whatever remains the Peer must be donated back half the amount. This is because of administrative costs and inconvenience and complecations of P2P funding. This is meant to also deter members playing around with community members and trying to take advantage of the community and system. This does not apply to genuinely proven cases where the member was erroneously allocated or underpaid.
 
+After 21 May 2018, there will be no refunding of Peers because there are no dreams created available to be allocated to those requesting for refunds. When DCBC dreams are created, they are immediately allocated by the system. After 21 May 2018, losers are compensated via credits for Cash Hot Spot on condition Cash Hot Spot generates money.
+
+If you are not happy with these changes please send a letter to accounts@womeninmove.net then another possible solution may be found and you can also help with this. This is a community issue and so the community should solve it.
+
 Admin must investigate thoroughly the Peer requesting for refund to avoid double payments and to avoid scammers. It should be completed within 2 weeks so that anyone with a case again a leaving Peer has enough time to bring his/her case.
 
 However, genuine losses caused by system allocatons or support can be compensated by routing new donations to affected Peers.
@@ -170,6 +174,7 @@ However, genuine losses caused by system allocatons or support can be compensate
 Distributing profile information of Peers with images as a deterrent to fraud or scam is not professional and violates Peer commitments to privacy and Non Disclosure of identities and information. Verbal abuse or abuse of any nature on the cyber space is also unprofessional and undermines Peer to Peer respect. Peer to Peer interactions are always suspecious. The true identities of online Peers is impossible to aunthenticate and verify.
 
 What makes it even more difficult is the fact that one individual can have multiple internet identities with differenct profile images. Most profile images are collages edited to potray certain characters. Even if one Peers feels he/she knows where a Peer lives, works, etc. Face it there is no way we can prove the Peer made an internet transaction. It could be a friend or group of people of child or someone. This therefore defines a Virtual Decentralized P2P as a trustless community. Paradoxically, it works efficiently and functions like a trustful community regulated by judiciary, executive and administrative organs.
+
 
 K: ALLOCATION & PAYMENTS
 
