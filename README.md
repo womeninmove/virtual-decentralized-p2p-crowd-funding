@@ -1,5 +1,7 @@
 Virtual Decentralised P2P Crowd Funding White Paper
 
+This is a Virtual Decentralised P2P Donation Based Funding Community.
+
 A: DEFITIONS:
 
 P2P means Peer to Peer. It is a group of people with equal status. Virtual refers to a form of interaction that takes place online. Decentralized means control is distributed to Peers. White Paper is a document that describe a project. Crowd Funding means that money is sources from a group of people.
