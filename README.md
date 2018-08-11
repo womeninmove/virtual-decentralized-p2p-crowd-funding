@@ -1,6 +1,6 @@
 Virtual Decentralised P2P Crowd Funding White Paper
 
-This is a Virtual Decentralised P2P Donation Based Funding Community.
+This is a Virtual Decentralised Peer To Peer Donation Based Funding Community.
 
 A: DEFITIONS:
 
