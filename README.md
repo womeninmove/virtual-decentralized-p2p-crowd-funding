@@ -666,4 +666,24 @@ Why? Because we want WIM to be independent and reach anyone anywhere in the worl
 
 3.  Fund Routing and Pay Master decentralization and upgrades to big P2P Financial Community Organs.
 
+AF: WimBTC
+
+Women In Move Bitcoin Cash is a blockchain based digital money with values pegged to the bitcoin value. WimBTC creation is part and parcel of the aim to grow the community.
+
+WimBTC will be a cryptocurrency coin traded on cryptocurrency exchanges to dollar, bitcoin, etherium and other altcoins. 
+
+Why create WimBTC?
+
+1. Women all over the world have a great need to be empowered economically. WimBTC will be a digital token bought by all well wishers to help women fund their economical activities.
+2. Connect all women in the world with the latest blockchain technologies.
+3. Eliminate or minimize unemployed women in the world.
+4. Advance women with new blockchain skills and network them.
+
+Process:
+
+a. Create WimBTC token. These will be later converted to WimBTC Coins which will be traded on exchanges.
+b. Pay all matured dreams of women in move with WimBTC Tokens.
+c. Market, promote WimBTC to all well wishers so that they buy and trade WimBTC.
+d. Train all interested investors on WimBTC.
+
 [*All contributions to this are welcome. This document can be ammended anytime and new content is binding to all members]
